@@ -1,0 +1,1001 @@
+Order ID,Order Date,Region,Product Line,Units Sold,Unit Price,Order Status,Delivery Days,Support Issue,Resolution Time (hrs),Customer Satisfaction,Total Revenue
+HP00001,2025-01-05 03:38:52.847697,South America,Accessories,48,1596.86,Backordered,10,Network,34,3,76649.28
+HP00002,2025-04-27 03:38:52.847734,Middle East,Monitors,69,1596.86,Cancelled,13,Software,13,5,110183.34
+HP00003,2024-06-04 03:38:52.847739,Asia-Pacific,Printers,90,1596.86,Backordered,10,Hardware,43,5,143717.4
+HP00004,2025-05-09 03:38:52.847742,Middle East,Laptops,62,1596.86,Delivered,2,Hardware,62,2,99005.32
+HP00005,2025-01-22 03:38:52.847745,Middle East,Printers,92,1596.86,Backordered,6,Setup,22,5,146911.12
+HP00006,2024-11-09 03:38:52.847748,Europe,Printers,66,1596.86,Backordered,6,Setup,52,2,105392.76
+HP00007,2024-08-10 03:38:52.847751,Asia-Pacific,Accessories,64,1596.86,Pending,1,Setup,52,5,102199.04
+HP00008,2025-04-24 03:38:52.847755,Asia-Pacific,Monitors,70,1596.86,Backordered,7,Hardware,36,1,111780.2
+HP00009,2025-01-01 03:38:52.847764,Asia-Pacific,Desktops,63,1596.86,Cancelled,8,Software,19,2,100602.18
+HP00010,2024-06-26 03:38:52.847768,Middle East,Monitors,73,1596.86,Pending,2,Warranty,38,2,116570.78
+HP00011,2025-01-26 03:38:52.847771,South America,Monitors,33,1596.86,Delivered,8,Setup,70,4,52696.38
+HP00012,2024-12-17 03:38:52.847774,Asia-Pacific,Printers,41,1596.86,Cancelled,9,Software,57,5,65471.26
+HP00013,2025-03-22 03:38:52.847777,Africa,Monitors,89,1596.86,Delivered,6,Network,20,5,142120.54
+HP00014,2024-10-05 03:38:52.847780,Middle East,Laptops,48,1596.86,Backordered,5,Setup,9,2,76649.28
+HP00015,2025-04-13 03:38:52.847782,Europe,Printers,13,1596.86,Cancelled,12,Warranty,32,1,20759.18
+HP00016,2025-03-18 03:38:52.847785,South America,Laptops,73,1596.86,Cancelled,9,Network,4,1,116570.78
+HP00017,2025-05-14 03:38:52.847788,Africa,Desktops,77,1596.86,Delivered,13,Network,50,1,122958.22
+HP00018,2025-04-12 03:38:52.847790,Africa,Printers,31,1596.86,Cancelled,12,Warranty,5,5,49502.66
+HP00019,2025-04-24 03:38:52.847794,Europe,Desktops,75,1596.86,Cancelled,11,Setup,20,4,119764.5
+HP00020,2024-10-16 03:38:52.847798,South America,Printers,68,1596.86,Cancelled,9,Hardware,37,2,108586.48
+HP00021,2024-09-23 03:38:52.847803,Middle East,Accessories,98,1596.86,Backordered,1,Warranty,22,3,156492.28
+HP00022,2024-06-12 03:38:52.847807,North America,Monitors,4,1596.86,Delivered,11,Warranty,58,4,6387.44
+HP00023,2024-08-05 03:38:52.847811,South America,Accessories,19,1596.86,Cancelled,3,Warranty,68,3,30340.34
+HP00024,2024-10-16 03:38:52.847816,Europe,Desktops,70,1596.86,Pending,9,Network,44,4,111780.2
+HP00025,2024-07-27 03:38:52.847825,Africa,Monitors,98,1596.86,Pending,11,Software,34,1,156492.28
+HP00026,2024-07-14 03:38:52.847828,Middle East,Printers,82,1596.86,Pending,2,Hardware,42,5,130942.52
+HP00027,2024-09-19 03:38:52.847831,South America,Monitors,13,1596.86,Pending,12,Setup,9,3,20759.18
+HP00028,2025-05-04 03:38:52.847833,North America,Laptops,23,1596.86,Backordered,4,Setup,7,4,36727.78
+HP00029,2025-03-22 03:38:52.847836,North America,Monitors,83,1596.86,Cancelled,4,Software,68,5,132539.38
+HP00030,2024-10-22 03:38:52.847838,Asia-Pacific,Laptops,75,1596.86,Delivered,2,Warranty,19,3,119764.5
+HP00031,2024-08-22 03:38:52.847841,Asia-Pacific,Monitors,1,1596.86,Cancelled,3,Hardware,31,2,1596.86
+HP00032,2024-05-24 03:38:52.847843,Europe,Laptops,88,1596.86,Backordered,13,Setup,35,4,140523.68
+HP00033,2024-11-18 03:38:52.847846,South America,Desktops,54,1596.86,Pending,3,Setup,57,2,86230.44
+HP00034,2024-08-30 03:38:52.847849,South America,Accessories,71,1596.86,Backordered,1,Warranty,61,1,113377.06
+HP00035,2025-04-14 03:38:52.847852,Africa,Printers,89,1596.86,Cancelled,6,Software,31,2,142120.54
+HP00036,2024-09-07 03:38:52.847854,Africa,Monitors,85,1596.86,Delivered,8,Hardware,53,2,135733.1
+HP00037,2025-01-05 03:38:52.847857,Africa,Accessories,15,1596.86,Backordered,12,Software,32,4,23952.9
+HP00038,2025-05-13 03:38:52.847859,Asia-Pacific,Printers,65,1596.86,Delivered,3,Software,66,1,103795.9
+HP00039,2024-10-31 03:38:52.847862,South America,Printers,76,1596.86,Backordered,5,Hardware,59,2,121361.36
+HP00040,2025-03-10 03:38:52.847865,South America,Laptops,71,1596.86,Delivered,1,Hardware,10,5,113377.06
+HP00041,2024-07-04 03:38:52.847867,North America,Desktops,15,1596.86,Delivered,10,Setup,2,3,23952.9
+HP00042,2024-08-03 03:38:52.847870,Asia-Pacific,Desktops,21,1596.86,Pending,7,Setup,66,2,33534.06
+HP00043,2024-08-27 03:38:52.847872,Middle East,Accessories,19,1596.86,Delivered,10,Hardware,60,1,30340.34
+HP00044,2025-03-01 03:38:52.847875,Asia-Pacific,Desktops,60,1596.86,Pending,13,Network,17,2,95811.6
+HP00045,2024-06-25 03:38:52.847878,Middle East,Monitors,93,1596.86,Cancelled,1,Setup,16,3,148507.98
+HP00046,2024-06-14 03:38:52.847880,North America,Desktops,89,1596.86,Cancelled,12,Network,16,1,142120.54
+HP00047,2025-01-25 03:38:52.847883,Europe,Accessories,33,1596.86,Pending,11,Hardware,46,4,52696.38
+HP00048,2024-07-27 03:38:52.847885,South America,Desktops,49,1596.86,Pending,9,Setup,39,1,78246.14
+HP00049,2024-06-06 03:38:52.847888,North America,Monitors,96,1596.86,Backordered,8,Software,31,4,153298.56
+HP00050,2024-12-07 03:38:52.847890,South America,Laptops,35,1596.86,Backordered,7,Hardware,1,1,55890.1
+HP00051,2025-01-23 03:38:52.847894,Africa,Accessories,44,1596.86,Backordered,10,Warranty,11,3,70261.84
+HP00052,2025-05-06 03:38:52.847899,Europe,Laptops,90,1596.86,Cancelled,7,Network,4,3,143717.4
+HP00053,2024-06-10 03:38:52.847903,Europe,Laptops,11,1596.86,Backordered,5,Hardware,71,1,17565.46
+HP00054,2024-08-13 03:38:52.847908,North America,Laptops,99,1596.86,Delivered,5,Hardware,26,2,158089.14
+HP00055,2024-06-27 03:38:52.847913,Europe,Printers,72,1596.86,Delivered,11,Setup,50,3,114973.92
+HP00056,2024-06-27 03:38:52.847919,Middle East,Printers,78,1596.86,Backordered,13,Setup,12,4,124555.08
+HP00057,2024-09-29 03:38:52.847922,Europe,Laptops,74,1596.86,Delivered,5,Setup,65,4,118167.64
+HP00058,2024-09-20 03:38:52.847924,South America,Accessories,66,1596.86,Cancelled,1,Warranty,47,5,105392.76
+HP00059,2024-09-06 03:38:52.847927,South America,Monitors,46,1596.86,Delivered,8,Setup,53,4,73455.56
+HP00060,2024-07-13 03:38:52.847931,South America,Monitors,9,1596.86,Cancelled,12,Hardware,71,5,14371.74
+HP00061,2024-08-12 03:38:52.847936,South America,Desktops,3,1596.86,Pending,11,Setup,2,1,4790.58
+HP00062,2025-02-07 03:38:52.847940,Middle East,Accessories,85,1596.86,Pending,1,Software,24,1,135733.1
+HP00063,2025-01-21 03:38:52.847944,Asia-Pacific,Printers,26,1596.86,Pending,4,Setup,4,1,41518.36
+HP00064,2025-02-16 03:38:52.847949,Africa,Laptops,72,1596.86,Pending,9,Warranty,19,2,114973.92
+HP00065,2025-05-11 03:38:52.847954,North America,Desktops,48,1596.86,Delivered,14,Software,26,2,76649.28
+HP00066,2025-01-24 03:38:52.847957,South America,Monitors,66,1596.86,Backordered,9,Hardware,40,5,105392.76
+HP00067,2024-05-31 03:38:52.847960,Europe,Printers,70,1596.86,Delivered,5,Hardware,50,4,111780.2
+HP00068,2025-02-16 03:38:52.847963,South America,Printers,28,1596.86,Cancelled,4,Network,43,4,44712.08
+HP00069,2024-06-06 03:38:52.847965,Europe,Laptops,93,1596.86,Delivered,3,Software,67,1,148507.98
+HP00070,2025-04-29 03:38:52.847968,Africa,Monitors,26,1596.86,Delivered,3,Network,12,3,41518.36
+HP00071,2024-11-13 03:38:52.847970,Africa,Accessories,25,1596.86,Cancelled,12,Software,67,2,39921.5
+HP00072,2025-04-01 03:38:52.847973,Africa,Printers,12,1596.86,Pending,5,Software,27,2,19162.32
+HP00073,2025-03-09 03:38:52.847976,Europe,Laptops,5,1596.86,Pending,10,Warranty,54,1,7984.3
+HP00074,2025-03-27 03:38:52.847980,South America,Accessories,98,1596.86,Pending,1,Network,66,2,156492.28
+HP00075,2024-09-25 03:38:52.847985,Africa,Monitors,48,1596.86,Backordered,5,Warranty,49,1,76649.28
+HP00076,2025-01-17 03:38:52.847989,Middle East,Printers,37,1596.86,Cancelled,6,Software,16,5,59083.82
+HP00077,2024-08-30 03:38:52.847993,Europe,Accessories,79,1596.86,Cancelled,7,Hardware,2,4,126151.94
+HP00078,2025-02-22 03:38:52.847998,Europe,Accessories,44,1596.86,Delivered,12,Software,60,3,70261.84
+HP00079,2025-01-14 03:38:52.848002,South America,Accessories,15,1596.86,Backordered,9,Warranty,54,4,23952.9
+HP00080,2025-05-15 03:38:52.848007,Europe,Printers,43,1596.86,Pending,3,Network,30,4,68664.98
+HP00081,2024-12-08 03:38:52.848018,Europe,Printers,48,1596.86,Backordered,2,Network,38,5,76649.28
+HP00082,2024-12-10 03:38:52.848022,Africa,Desktops,87,1596.86,Cancelled,14,Warranty,28,2,138926.82
+HP00083,2024-07-03 03:38:52.848026,South America,Monitors,70,1596.86,Cancelled,3,Network,25,3,111780.2
+HP00084,2024-06-18 03:38:52.848031,Africa,Laptops,46,1596.86,Delivered,12,Setup,10,2,73455.56
+HP00085,2025-02-20 03:38:52.848035,Africa,Accessories,43,1596.86,Delivered,9,Hardware,60,4,68664.98
+HP00086,2025-01-21 03:38:52.848039,South America,Desktops,21,1596.86,Cancelled,12,Hardware,42,1,33534.06
+HP00087,2024-09-18 03:38:52.848043,North America,Laptops,23,1596.86,Pending,7,Hardware,40,4,36727.78
+HP00088,2024-10-02 03:38:52.848048,Africa,Desktops,80,1596.86,Pending,9,Network,42,2,127748.8
+HP00089,2024-05-24 03:38:52.848052,Middle East,Printers,47,1596.86,Backordered,13,Network,47,4,75052.42
+HP00090,2025-04-30 03:38:52.848057,Middle East,Accessories,15,1596.86,Cancelled,2,Software,37,1,23952.9
+HP00091,2025-03-09 03:38:52.848062,Europe,Laptops,25,1596.86,Cancelled,5,Software,22,5,39921.5
+HP00092,2024-08-01 03:38:52.848066,Middle East,Laptops,36,1596.86,Pending,13,Hardware,57,2,57486.96
+HP00093,2024-08-02 03:38:52.848069,Europe,Laptops,75,1596.86,Pending,4,Setup,27,4,119764.5
+HP00094,2024-08-06 03:38:52.848072,North America,Laptops,51,1596.86,Cancelled,2,Software,41,2,81439.86
+HP00095,2025-05-01 03:38:52.848074,South America,Laptops,15,1596.86,Delivered,9,Software,34,5,23952.9
+HP00096,2024-09-08 03:38:52.848077,South America,Desktops,68,1596.86,Cancelled,9,Network,32,4,108586.48
+HP00097,2024-06-27 03:38:52.848080,South America,Accessories,21,1596.86,Cancelled,6,Setup,66,4,33534.06
+HP00098,2025-01-14 03:38:52.848082,Middle East,Printers,13,1596.86,Pending,11,Hardware,12,2,20759.18
+HP00099,2024-06-24 03:38:52.848084,North America,Printers,86,1596.86,Pending,6,Software,40,2,137329.96
+HP00100,2024-08-16 03:38:52.848087,Middle East,Printers,19,1596.86,Delivered,8,Setup,10,1,30340.34
+HP00101,2024-06-06 03:38:52.848090,Middle East,Printers,34,1596.86,Delivered,6,Setup,48,5,54293.24
+HP00102,2024-05-25 03:38:52.848092,North America,Desktops,78,1596.86,Backordered,1,Hardware,20,1,124555.08
+HP00103,2024-06-28 03:38:52.848095,North America,Monitors,68,1596.86,Cancelled,4,Setup,39,4,108586.48
+HP00104,2025-04-23 03:38:52.848097,North America,Accessories,52,1596.86,Pending,13,Setup,60,2,83036.72
+HP00105,2025-05-14 03:38:52.848100,North America,Laptops,27,1596.86,Delivered,7,Setup,66,4,43115.22
+HP00106,2024-11-02 03:38:52.848102,South America,Monitors,29,1596.86,Backordered,13,Software,65,4,46308.94
+HP00107,2024-10-20 03:38:52.848105,Asia-Pacific,Printers,28,1596.86,Backordered,13,Hardware,51,3,44712.08
+HP00108,2025-03-13 03:38:52.848108,Asia-Pacific,Monitors,35,1596.86,Pending,2,Setup,36,3,55890.1
+HP00109,2024-06-06 03:38:52.848110,North America,Accessories,8,1596.86,Pending,9,Setup,24,4,12774.88
+HP00110,2024-12-14 03:38:52.848113,Asia-Pacific,Laptops,16,1596.86,Backordered,8,Software,27,2,25549.76
+HP00111,2024-09-21 03:38:52.848115,Asia-Pacific,Laptops,36,1596.86,Delivered,8,Hardware,2,4,57486.96
+HP00112,2024-11-18 03:38:52.848118,North America,Accessories,30,1596.86,Backordered,7,Network,31,3,47905.8
+HP00113,2025-02-12 03:38:52.848123,Asia-Pacific,Accessories,18,1596.86,Cancelled,4,Software,57,2,28743.48
+HP00114,2025-02-13 03:38:52.848127,Middle East,Printers,2,1596.86,Cancelled,2,Hardware,66,4,3193.72
+HP00115,2024-10-20 03:38:52.848132,Europe,Laptops,49,1596.86,Pending,3,Setup,29,5,78246.14
+HP00116,2024-06-12 03:38:52.848136,Europe,Monitors,77,1596.86,Delivered,12,Hardware,15,5,122958.22
+HP00117,2024-05-20 03:38:52.848141,North America,Desktops,4,1596.86,Delivered,6,Hardware,12,4,6387.44
+HP00118,2025-05-05 03:38:52.848146,South America,Desktops,90,1596.86,Cancelled,12,Hardware,28,2,143717.4
+HP00119,2024-10-26 03:38:52.848151,North America,Accessories,89,1596.86,Backordered,12,Network,24,4,142120.54
+HP00120,2024-07-05 03:38:52.848156,South America,Printers,94,1596.86,Pending,5,Hardware,21,4,150104.84
+HP00121,2025-02-10 03:38:52.848159,Europe,Desktops,75,1596.86,Backordered,12,Network,10,3,119764.5
+HP00122,2025-03-21 03:38:52.848162,North America,Laptops,7,1596.86,Backordered,8,Setup,18,5,11178.02
+HP00123,2024-12-23 03:38:52.848164,Africa,Accessories,95,1596.86,Backordered,6,Network,14,3,151701.7
+HP00124,2024-07-28 03:38:52.848167,Middle East,Monitors,74,1596.86,Delivered,6,Setup,34,3,118167.64
+HP00125,2025-04-20 03:38:52.848170,Asia-Pacific,Accessories,39,1596.86,Cancelled,1,Setup,58,4,62277.54
+HP00126,2025-05-06 03:38:52.848172,South America,Monitors,13,1596.86,Delivered,4,Network,22,3,20759.18
+HP00127,2024-06-28 03:38:52.848176,Africa,Accessories,31,1596.86,Cancelled,5,Software,70,5,49502.66
+HP00128,2024-08-31 03:38:52.848181,Asia-Pacific,Accessories,71,1596.86,Pending,12,Warranty,36,3,113377.06
+HP00129,2024-06-15 03:38:52.848185,Asia-Pacific,Accessories,63,1596.86,Pending,11,Hardware,45,5,100602.18
+HP00130,2025-01-06 03:38:52.848190,North America,Monitors,56,1596.86,Backordered,3,Warranty,36,3,89424.16
+HP00131,2024-11-07 03:38:52.848195,Asia-Pacific,Monitors,42,1596.86,Cancelled,13,Hardware,22,5,67068.12
+HP00132,2025-05-10 03:38:52.848207,Middle East,Accessories,61,1596.86,Cancelled,9,Hardware,61,3,97408.46
+HP00133,2025-01-21 03:38:52.848211,Africa,Desktops,42,1596.86,Cancelled,1,Setup,56,3,67068.12
+HP00134,2024-08-09 03:38:52.848214,Asia-Pacific,Printers,56,1596.86,Backordered,6,Hardware,33,2,89424.16
+HP00135,2025-03-30 03:38:52.848217,North America,Printers,36,1596.86,Backordered,6,Hardware,45,5,57486.96
+HP00136,2024-12-18 03:38:52.848219,Middle East,Printers,84,1596.86,Pending,10,Network,36,5,134136.24
+HP00137,2024-07-26 03:38:52.848222,Europe,Monitors,68,1596.86,Delivered,5,Warranty,20,5,108586.48
+HP00138,2025-01-03 03:38:52.848224,Africa,Monitors,7,1596.86,Cancelled,12,Network,18,1,11178.02
+HP00139,2025-02-16 03:38:52.848227,Asia-Pacific,Desktops,54,1596.86,Cancelled,5,Hardware,38,3,86230.44
+HP00140,2025-03-10 03:38:52.848230,North America,Printers,1,1596.86,Delivered,10,Setup,67,5,1596.86
+HP00141,2025-05-14 03:38:52.848233,Europe,Printers,44,1596.86,Cancelled,14,Network,23,1,70261.84
+HP00142,2025-02-13 03:38:52.848235,Europe,Accessories,45,1596.86,Backordered,13,Network,16,2,71858.7
+HP00143,2024-10-16 03:38:52.848238,South America,Monitors,47,1596.86,Backordered,5,Software,59,5,75052.42
+HP00144,2024-06-24 03:38:52.848240,Middle East,Printers,13,1596.86,Cancelled,6,Hardware,69,5,20759.18
+HP00145,2024-07-09 03:38:52.848243,Asia-Pacific,Desktops,22,1596.86,Backordered,8,Setup,68,1,35130.92
+HP00146,2024-10-11 03:38:52.848245,North America,Desktops,21,1596.86,Backordered,2,Network,21,3,33534.06
+HP00147,2024-08-17 03:38:52.848248,South America,Printers,86,1596.86,Cancelled,6,Network,70,2,137329.96
+HP00148,2025-01-10 03:38:52.848250,Middle East,Monitors,92,1596.86,Pending,1,Setup,12,5,146911.12
+HP00149,2024-09-18 03:38:52.848253,South America,Desktops,9,1596.86,Delivered,4,Hardware,16,3,14371.74
+HP00150,2025-02-05 03:38:52.848256,Africa,Accessories,26,1596.86,Backordered,14,Software,14,2,41518.36
+HP00151,2024-11-12 03:38:52.848258,Middle East,Desktops,9,1596.86,Pending,10,Network,61,4,14371.74
+HP00152,2024-06-13 03:38:52.848262,Middle East,Laptops,15,1596.86,Backordered,3,Software,71,4,23952.9
+HP00153,2024-06-02 03:38:52.848268,Asia-Pacific,Laptops,10,1596.86,Backordered,9,Warranty,46,2,15968.6
+HP00154,2024-06-13 03:38:52.848272,Middle East,Monitors,88,1596.86,Delivered,3,Hardware,32,1,140523.68
+HP00155,2024-06-23 03:38:52.848277,South America,Printers,42,1596.86,Backordered,6,Warranty,15,2,67068.12
+HP00156,2025-05-07 03:38:52.848292,Middle East,Monitors,72,1596.86,Delivered,1,Warranty,44,2,114973.92
+HP00157,2024-09-24 03:38:52.848297,Asia-Pacific,Monitors,24,1596.86,Delivered,12,Warranty,17,1,38324.64
+HP00158,2024-07-10 03:38:52.848300,Asia-Pacific,Monitors,80,1596.86,Delivered,6,Hardware,41,1,127748.8
+HP00159,2025-04-20 03:38:52.848302,Africa,Monitors,49,1596.86,Pending,4,Hardware,54,3,78246.14
+HP00160,2025-05-16 03:38:52.848304,South America,Accessories,26,1596.86,Cancelled,8,Setup,44,3,41518.36
+HP00161,2024-07-17 03:38:52.848307,Europe,Accessories,91,1596.86,Pending,13,Software,5,1,145314.26
+HP00162,2024-12-24 03:38:52.848310,Europe,Desktops,37,1596.86,Cancelled,11,Software,27,4,59083.82
+HP00163,2024-08-22 03:38:52.848313,Middle East,Laptops,68,1596.86,Cancelled,9,Setup,43,4,108586.48
+HP00164,2024-10-01 03:38:52.848315,Africa,Monitors,50,1596.86,Delivered,4,Setup,31,2,79843.0
+HP00165,2024-10-28 03:38:52.848318,North America,Desktops,24,1596.86,Backordered,10,Warranty,17,5,38324.64
+HP00166,2024-06-24 03:38:52.848320,Middle East,Laptops,19,1596.86,Delivered,12,Setup,54,2,30340.34
+HP00167,2024-09-15 03:38:52.848323,Africa,Printers,60,1596.86,Backordered,10,Network,62,2,95811.6
+HP00168,2024-06-24 03:38:52.848325,South America,Accessories,39,1596.86,Cancelled,6,Software,32,5,62277.54
+HP00169,2025-01-29 03:38:52.848328,South America,Laptops,74,1596.86,Delivered,1,Setup,40,1,118167.64
+HP00170,2024-11-20 03:38:52.848331,South America,Printers,89,1596.86,Backordered,4,Network,13,4,142120.54
+HP00171,2025-04-13 03:38:52.848333,South America,Laptops,18,1596.86,Pending,7,Network,35,2,28743.48
+HP00172,2025-01-10 03:38:52.848336,South America,Accessories,19,1596.86,Backordered,12,Network,5,5,30340.34
+HP00173,2025-02-23 03:38:52.848338,Africa,Accessories,36,1596.86,Delivered,1,Network,29,3,57486.96
+HP00174,2024-07-05 03:38:52.848341,Africa,Desktops,74,1596.86,Pending,8,Warranty,70,2,118167.64
+HP00175,2024-06-20 03:38:52.848344,Asia-Pacific,Monitors,97,1596.86,Backordered,12,Network,25,4,154895.42
+HP00176,2025-02-07 03:38:52.848346,Europe,Laptops,55,1596.86,Backordered,10,Warranty,22,1,87827.3
+HP00177,2024-06-11 03:38:52.848349,South America,Laptops,69,1596.86,Backordered,12,Warranty,66,2,110183.34
+HP00178,2024-06-02 03:38:52.848351,North America,Printers,47,1596.86,Backordered,11,Network,45,2,75052.42
+HP00179,2024-12-21 03:38:52.848354,Africa,Accessories,49,1596.86,Backordered,6,Software,69,5,78246.14
+HP00180,2024-09-19 03:38:52.848357,North America,Laptops,99,1596.86,Pending,5,Network,1,3,158089.14
+HP00181,2025-04-24 03:38:52.848359,North America,Accessories,98,1596.86,Cancelled,10,Network,44,3,156492.28
+HP00182,2024-11-27 03:38:52.848361,North America,Laptops,33,1596.86,Pending,11,Network,39,1,52696.38
+HP00183,2024-10-10 03:38:52.848364,Asia-Pacific,Desktops,21,1596.86,Pending,14,Software,54,4,33534.06
+HP00184,2024-09-09 03:38:52.848366,Africa,Monitors,81,1596.86,Pending,9,Hardware,29,1,129345.66
+HP00185,2024-11-05 03:38:52.848369,North America,Laptops,22,1596.86,Cancelled,2,Hardware,54,2,35130.92
+HP00186,2025-05-08 03:38:52.848372,South America,Accessories,48,1596.86,Delivered,5,Warranty,16,2,76649.28
+HP00187,2024-06-03 03:38:52.848374,Middle East,Desktops,37,1596.86,Cancelled,6,Warranty,20,3,59083.82
+HP00188,2025-03-16 03:38:52.848376,North America,Laptops,15,1596.86,Pending,7,Software,46,4,23952.9
+HP00189,2024-05-27 03:38:52.848379,Asia-Pacific,Printers,35,1596.86,Backordered,5,Setup,67,5,55890.1
+HP00190,2025-04-03 03:38:52.848382,Africa,Monitors,92,1596.86,Backordered,9,Hardware,65,4,146911.12
+HP00191,2024-09-14 03:38:52.848384,Asia-Pacific,Laptops,71,1596.86,Pending,1,Warranty,58,2,113377.06
+HP00192,2024-09-16 03:38:52.848386,North America,Desktops,32,1596.86,Backordered,7,Hardware,53,5,51099.52
+HP00193,2024-09-29 03:38:52.848389,Africa,Printers,11,1596.86,Pending,10,Software,1,4,17565.46
+HP00194,2024-10-12 03:38:52.848391,Middle East,Desktops,10,1596.86,Backordered,7,Software,66,4,15968.6
+HP00195,2025-03-05 03:38:52.848394,North America,Desktops,73,1596.86,Cancelled,4,Setup,29,5,116570.78
+HP00196,2024-12-25 03:38:52.848396,Asia-Pacific,Printers,78,1596.86,Delivered,9,Setup,70,2,124555.08
+HP00197,2024-12-09 03:38:52.848399,Europe,Desktops,77,1596.86,Delivered,14,Software,8,4,122958.22
+HP00198,2024-06-13 03:38:52.848401,South America,Printers,57,1596.86,Cancelled,12,Warranty,29,5,91021.02
+HP00199,2024-11-23 03:38:52.848404,Asia-Pacific,Laptops,25,1596.86,Cancelled,11,Hardware,51,2,39921.5
+HP00200,2025-01-17 03:38:52.848406,Africa,Printers,2,1596.86,Pending,5,Network,33,5,3193.72
+HP00201,2024-11-29 03:38:52.848409,North America,Printers,64,1596.86,Pending,4,Setup,3,5,102199.04
+HP00202,2025-02-17 03:38:52.848412,South America,Monitors,35,1596.86,Pending,13,Network,60,4,55890.1
+HP00203,2024-09-03 03:38:52.848414,North America,Printers,7,1596.86,Backordered,7,Warranty,35,2,11178.02
+HP00204,2024-07-27 03:38:52.848417,Africa,Printers,85,1596.86,Pending,4,Setup,69,4,135733.1
+HP00205,2024-09-16 03:38:52.848420,North America,Laptops,18,1596.86,Cancelled,3,Network,20,1,28743.48
+HP00206,2025-04-27 03:38:52.848422,Europe,Monitors,67,1596.86,Delivered,9,Warranty,39,1,106989.62
+HP00207,2024-12-03 03:38:52.848424,South America,Accessories,42,1596.86,Backordered,11,Hardware,4,2,67068.12
+HP00208,2025-02-11 03:38:52.848427,South America,Laptops,39,1596.86,Pending,8,Warranty,19,5,62277.54
+HP00209,2025-03-07 03:38:52.848429,Africa,Laptops,41,1596.86,Backordered,1,Setup,45,4,65471.26
+HP00210,2025-05-11 03:38:52.848432,Europe,Accessories,75,1596.86,Backordered,7,Software,43,4,119764.5
+HP00211,2024-05-24 03:38:52.848434,Asia-Pacific,Printers,24,1596.86,Pending,9,Hardware,13,2,38324.64
+HP00212,2024-08-22 03:38:52.848437,North America,Desktops,60,1596.86,Backordered,8,Network,13,2,95811.6
+HP00213,2024-12-06 03:38:52.848439,Middle East,Monitors,46,1596.86,Delivered,8,Setup,60,1,73455.56
+HP00214,2024-12-29 03:38:52.848442,North America,Desktops,19,1596.86,Cancelled,13,Software,57,3,30340.34
+HP00215,2025-04-21 03:38:52.848444,North America,Accessories,68,1596.86,Cancelled,6,Warranty,52,2,108586.48
+HP00216,2024-09-25 03:38:52.848447,Asia-Pacific,Laptops,90,1596.86,Delivered,11,Software,53,3,143717.4
+HP00217,2024-09-03 03:38:52.848450,North America,Laptops,42,1596.86,Backordered,4,Setup,43,2,67068.12
+HP00218,2025-02-14 03:38:52.848453,Europe,Monitors,32,1596.86,Pending,8,Setup,42,5,51099.52
+HP00219,2025-05-14 03:38:52.848455,Europe,Laptops,39,1596.86,Backordered,3,Software,26,5,62277.54
+HP00220,2024-07-22 03:38:52.848458,South America,Laptops,36,1596.86,Delivered,13,Warranty,23,1,57486.96
+HP00221,2024-12-14 03:38:52.848460,Africa,Monitors,97,1596.86,Backordered,9,Software,43,1,154895.42
+HP00222,2024-06-10 03:38:52.848463,Middle East,Monitors,36,1596.86,Cancelled,13,Setup,28,3,57486.96
+HP00223,2024-05-16 03:38:52.848465,North America,Accessories,3,1596.86,Backordered,2,Setup,9,2,4790.58
+HP00224,2024-12-12 03:38:52.848469,North America,Laptops,73,1596.86,Delivered,2,Network,20,4,116570.78
+HP00225,2024-05-26 03:38:52.848473,Asia-Pacific,Laptops,8,1596.86,Cancelled,12,Network,56,1,12774.88
+HP00226,2024-09-28 03:38:52.848478,Africa,Accessories,97,1596.86,Backordered,13,Hardware,39,4,154895.42
+HP00227,2025-02-22 03:38:52.848483,Europe,Printers,70,1596.86,Backordered,12,Setup,51,4,111780.2
+HP00228,2024-06-10 03:38:52.848487,Middle East,Printers,41,1596.86,Cancelled,7,Network,12,2,65471.26
+HP00229,2024-10-29 03:38:52.848492,South America,Printers,68,1596.86,Pending,12,Software,55,3,108586.48
+HP00230,2024-11-21 03:38:52.848497,Europe,Accessories,13,1596.86,Cancelled,10,Warranty,11,2,20759.18
+HP00231,2025-04-30 03:38:52.848503,Africa,Laptops,49,1596.86,Pending,4,Software,26,1,78246.14
+HP00232,2024-09-23 03:38:52.848505,South America,Accessories,60,1596.86,Delivered,10,Warranty,42,4,95811.6
+HP00233,2024-09-30 03:38:52.848508,Asia-Pacific,Accessories,2,1596.86,Delivered,8,Network,27,2,3193.72
+HP00234,2024-11-19 03:38:52.848511,Asia-Pacific,Printers,60,1596.86,Cancelled,9,Hardware,11,2,95811.6
+HP00235,2024-10-16 03:38:52.848513,North America,Desktops,5,1596.86,Cancelled,7,Software,38,2,7984.3
+HP00236,2024-08-08 03:38:52.848516,Africa,Laptops,44,1596.86,Delivered,5,Software,43,1,70261.84
+HP00237,2025-03-01 03:38:52.848519,Middle East,Printers,27,1596.86,Pending,8,Software,19,3,43115.22
+HP00238,2024-08-04 03:38:52.848521,South America,Desktops,32,1596.86,Delivered,4,Warranty,64,2,51099.52
+HP00239,2024-05-18 03:38:52.848524,Europe,Desktops,21,1596.86,Cancelled,2,Network,6,1,33534.06
+HP00240,2024-09-21 03:38:52.848527,Africa,Monitors,8,1596.86,Delivered,11,Software,46,4,12774.88
+HP00241,2024-10-22 03:38:52.848529,Africa,Laptops,72,1596.86,Cancelled,12,Software,42,5,114973.92
+HP00242,2025-05-09 03:38:52.848532,Asia-Pacific,Desktops,50,1596.86,Cancelled,6,Hardware,65,1,79843.0
+HP00243,2024-07-30 03:38:52.848534,North America,Printers,67,1596.86,Delivered,9,Hardware,59,5,106989.62
+HP00244,2025-04-19 03:38:52.848537,North America,Monitors,44,1596.86,Pending,1,Network,52,2,70261.84
+HP00245,2025-05-08 03:38:52.848540,South America,Laptops,58,1596.86,Backordered,11,Network,47,2,92617.88
+HP00246,2024-10-30 03:38:52.848544,Asia-Pacific,Accessories,3,1596.86,Delivered,10,Setup,7,1,4790.58
+HP00247,2025-01-05 03:38:52.848548,Africa,Printers,86,1596.86,Backordered,12,Hardware,11,5,137329.96
+HP00248,2024-11-04 03:38:52.848553,Middle East,Desktops,70,1596.86,Delivered,7,Setup,61,2,111780.2
+HP00249,2025-04-14 03:38:52.848557,Asia-Pacific,Desktops,2,1596.86,Backordered,10,Warranty,68,4,3193.72
+HP00250,2024-11-24 03:38:52.848567,South America,Printers,87,1596.86,Pending,9,Setup,25,3,138926.82
+HP00251,2024-09-18 03:38:52.848572,South America,Desktops,44,1596.86,Pending,10,Software,12,3,70261.84
+HP00252,2024-05-22 03:38:52.848575,Asia-Pacific,Monitors,2,1596.86,Delivered,9,Setup,26,2,3193.72
+HP00253,2025-05-03 03:38:52.848577,South America,Laptops,81,1596.86,Cancelled,10,Network,12,5,129345.66
+HP00254,2025-04-21 03:38:52.848580,Asia-Pacific,Monitors,35,1596.86,Backordered,11,Warranty,43,2,55890.1
+HP00255,2024-08-27 03:38:52.848583,Europe,Desktops,98,1596.86,Cancelled,13,Software,51,5,156492.28
+HP00256,2025-03-14 03:38:52.848585,Asia-Pacific,Accessories,87,1596.86,Cancelled,3,Setup,37,4,138926.82
+HP00257,2024-09-10 03:38:52.848590,Asia-Pacific,Laptops,30,1596.86,Cancelled,11,Warranty,46,5,47905.8
+HP00258,2024-09-10 03:38:52.848594,South America,Laptops,8,1596.86,Pending,13,Warranty,53,2,12774.88
+HP00259,2024-07-30 03:38:52.848599,South America,Printers,22,1596.86,Delivered,5,Software,13,4,35130.92
+HP00260,2025-01-30 03:38:52.848603,North America,Printers,44,1596.86,Delivered,8,Setup,54,1,70261.84
+HP00261,2025-05-13 03:38:52.848608,North America,Accessories,58,1596.86,Pending,8,Warranty,57,3,92617.88
+HP00262,2025-01-22 03:38:52.848612,Europe,Laptops,36,1596.86,Pending,4,Warranty,4,2,57486.96
+HP00263,2024-06-07 03:38:52.848618,North America,Accessories,69,1596.86,Delivered,12,Hardware,49,2,110183.34
+HP00264,2024-08-29 03:38:52.848623,Asia-Pacific,Printers,77,1596.86,Cancelled,11,Warranty,7,2,122958.22
+HP00265,2024-09-06 03:38:52.848625,South America,Printers,93,1596.86,Backordered,11,Hardware,11,4,148507.98
+HP00266,2024-12-28 03:38:52.848628,North America,Laptops,31,1596.86,Backordered,1,Setup,54,1,49502.66
+HP00267,2025-03-05 03:38:52.848631,North America,Monitors,47,1596.86,Backordered,1,Setup,45,5,75052.42
+HP00268,2025-04-06 03:38:52.848634,Europe,Desktops,55,1596.86,Cancelled,4,Setup,23,1,87827.3
+HP00269,2025-01-24 03:38:52.848636,Africa,Printers,80,1596.86,Delivered,6,Network,28,4,127748.8
+HP00270,2024-09-18 03:38:52.848639,Europe,Printers,62,1596.86,Pending,8,Setup,57,2,99005.32
+HP00271,2025-02-08 03:38:52.848641,Asia-Pacific,Monitors,30,1596.86,Delivered,6,Warranty,26,3,47905.8
+HP00272,2024-06-05 03:38:52.848644,South America,Monitors,55,1596.86,Cancelled,12,Software,25,2,87827.3
+HP00273,2024-11-29 03:38:52.848647,Europe,Accessories,16,1596.86,Pending,9,Hardware,54,5,25549.76
+HP00274,2024-10-28 03:38:52.848649,North America,Accessories,12,1596.86,Cancelled,9,Network,29,3,19162.32
+HP00275,2024-12-14 03:38:52.848652,South America,Desktops,17,1596.86,Backordered,14,Setup,36,2,27146.62
+HP00276,2024-05-16 03:38:52.848654,South America,Desktops,16,1596.86,Backordered,2,Setup,14,3,25549.76
+HP00277,2024-10-16 03:38:52.848657,North America,Laptops,12,1596.86,Cancelled,10,Software,35,1,19162.32
+HP00278,2024-12-18 03:38:52.848660,Europe,Accessories,8,1596.86,Pending,1,Software,30,4,12774.88
+HP00279,2025-03-16 03:38:52.848662,North America,Printers,84,1596.86,Pending,2,Network,17,2,134136.24
+HP00280,2024-05-20 03:38:52.848665,Africa,Accessories,3,1596.86,Delivered,5,Hardware,67,5,4790.58
+HP00281,2025-03-01 03:38:52.848667,South America,Printers,16,1596.86,Backordered,4,Setup,30,1,25549.76
+HP00282,2025-01-05 03:38:52.848670,Middle East,Monitors,30,1596.86,Delivered,4,Network,45,2,47905.8
+HP00283,2024-07-05 03:38:52.848672,Middle East,Accessories,23,1596.86,Delivered,9,Warranty,51,1,36727.78
+HP00284,2024-08-15 03:38:52.848675,Asia-Pacific,Monitors,92,1596.86,Cancelled,11,Warranty,47,5,146911.12
+HP00285,2025-02-17 03:38:52.848677,North America,Desktops,5,1596.86,Cancelled,8,Network,53,2,7984.3
+HP00286,2024-05-21 03:38:52.848680,North America,Desktops,84,1596.86,Delivered,6,Setup,64,5,134136.24
+HP00287,2024-10-02 03:38:52.848682,Asia-Pacific,Laptops,65,1596.86,Backordered,1,Network,38,3,103795.9
+HP00288,2025-01-14 03:38:52.848685,Asia-Pacific,Accessories,30,1596.86,Cancelled,2,Setup,64,5,47905.8
+HP00289,2025-03-19 03:38:52.848688,Asia-Pacific,Monitors,21,1596.86,Delivered,6,Software,7,3,33534.06
+HP00290,2024-08-22 03:38:52.848690,South America,Printers,84,1596.86,Delivered,11,Network,22,2,134136.24
+HP00291,2024-12-13 03:38:52.848693,Africa,Desktops,70,1596.86,Delivered,2,Setup,41,3,111780.2
+HP00292,2025-04-20 03:38:52.848695,North America,Desktops,22,1596.86,Delivered,13,Network,10,2,35130.92
+HP00293,2025-01-17 03:38:52.848698,South America,Printers,82,1596.86,Delivered,10,Network,57,2,130942.52
+HP00294,2025-04-21 03:38:52.848700,Asia-Pacific,Monitors,72,1596.86,Delivered,5,Setup,7,4,114973.92
+HP00295,2024-12-14 03:38:52.848703,North America,Monitors,32,1596.86,Cancelled,14,Setup,50,2,51099.52
+HP00296,2025-04-27 03:38:52.848705,South America,Accessories,33,1596.86,Backordered,5,Hardware,52,3,52696.38
+HP00297,2025-05-03 03:38:52.848708,Africa,Accessories,16,1596.86,Delivered,6,Network,33,4,25549.76
+HP00298,2024-10-10 03:38:52.848710,South America,Laptops,76,1596.86,Pending,6,Warranty,1,4,121361.36
+HP00299,2024-07-12 03:38:52.848713,Africa,Desktops,38,1596.86,Cancelled,14,Network,53,2,60680.68
+HP00300,2025-04-05 03:38:52.848718,Asia-Pacific,Accessories,98,1596.86,Cancelled,6,Network,60,5,156492.28
+HP00301,2024-05-16 03:38:52.848722,Africa,Monitors,14,1596.86,Delivered,14,Setup,34,5,22356.04
+HP00302,2024-05-28 03:38:52.848727,North America,Printers,36,1596.86,Cancelled,2,Network,4,4,57486.96
+HP00303,2024-09-25 03:38:52.848732,Asia-Pacific,Monitors,97,1596.86,Delivered,14,Network,17,2,154895.42
+HP00304,2025-03-16 03:38:52.848736,North America,Desktops,23,1596.86,Backordered,10,Warranty,4,5,36727.78
+HP00305,2024-10-01 03:38:52.848741,Middle East,Monitors,66,1596.86,Backordered,14,Setup,43,2,105392.76
+HP00306,2025-03-19 03:38:52.848747,Europe,Laptops,85,1596.86,Cancelled,13,Network,4,2,135733.1
+HP00307,2024-05-21 03:38:52.848749,Africa,Desktops,2,1596.86,Cancelled,14,Software,1,4,3193.72
+HP00308,2024-06-29 03:38:52.848752,Europe,Printers,91,1596.86,Pending,3,Hardware,71,4,145314.26
+HP00309,2025-01-28 03:38:52.848754,Europe,Laptops,73,1596.86,Cancelled,14,Warranty,50,1,116570.78
+HP00310,2025-03-24 03:38:52.848937,Africa,Desktops,65,1596.86,Pending,6,Network,61,5,103795.9
+HP00311,2025-02-13 03:38:52.848957,Asia-Pacific,Printers,75,1596.86,Backordered,13,Software,35,5,119764.5
+HP00312,2025-03-27 03:38:52.848963,Middle East,Laptops,67,1596.86,Backordered,8,Network,8,5,106989.62
+HP00313,2025-02-21 03:38:52.848966,North America,Laptops,52,1596.86,Delivered,12,Network,24,3,83036.72
+HP00314,2025-01-17 03:38:52.848969,South America,Desktops,62,1596.86,Backordered,13,Setup,36,2,99005.32
+HP00315,2024-10-03 03:38:52.848972,North America,Accessories,23,1596.86,Pending,11,Setup,50,4,36727.78
+HP00316,2024-05-19 03:38:52.848974,South America,Laptops,26,1596.86,Cancelled,12,Setup,43,5,41518.36
+HP00317,2025-02-27 03:38:52.848978,North America,Laptops,68,1596.86,Delivered,1,Software,27,1,108586.48
+HP00318,2024-11-23 03:38:52.848981,Africa,Printers,82,1596.86,Pending,1,Network,32,5,130942.52
+HP00319,2025-01-18 03:38:52.848983,Middle East,Monitors,55,1596.86,Cancelled,11,Hardware,18,2,87827.3
+HP00320,2025-04-22 03:38:52.848986,South America,Desktops,6,1596.86,Delivered,13,Warranty,28,2,9581.16
+HP00321,2025-04-30 03:38:52.848989,Asia-Pacific,Desktops,35,1596.86,Backordered,2,Setup,29,4,55890.1
+HP00322,2024-07-28 03:38:52.848991,North America,Accessories,22,1596.86,Pending,11,Setup,16,3,35130.92
+HP00323,2025-03-26 03:38:52.848994,North America,Accessories,43,1596.86,Cancelled,12,Network,47,4,68664.98
+HP00324,2025-05-08 03:38:52.848997,South America,Desktops,15,1596.86,Delivered,12,Network,59,5,23952.9
+HP00325,2024-10-23 03:38:52.848999,Asia-Pacific,Accessories,86,1596.86,Delivered,6,Software,31,1,137329.96
+HP00326,2024-06-10 03:38:52.849002,Asia-Pacific,Printers,60,1596.86,Backordered,9,Software,4,4,95811.6
+HP00327,2024-09-29 03:38:52.849004,Africa,Desktops,12,1596.86,Cancelled,4,Setup,37,3,19162.32
+HP00328,2024-08-15 03:38:52.849007,Africa,Accessories,49,1596.86,Backordered,3,Network,17,4,78246.14
+HP00329,2025-01-28 03:38:52.849010,Africa,Desktops,42,1596.86,Backordered,12,Hardware,39,2,67068.12
+HP00330,2025-02-14 03:38:52.849012,Africa,Monitors,38,1596.86,Cancelled,8,Warranty,48,5,60680.68
+HP00331,2024-07-23 03:38:52.849015,Africa,Laptops,82,1596.86,Cancelled,11,Network,46,5,130942.52
+HP00332,2024-11-14 03:38:52.849017,Africa,Desktops,45,1596.86,Cancelled,10,Network,48,5,71858.7
+HP00333,2025-01-13 03:38:52.849020,Middle East,Laptops,35,1596.86,Pending,14,Software,39,5,55890.1
+HP00334,2024-07-03 03:38:52.849026,Asia-Pacific,Accessories,30,1596.86,Cancelled,9,Warranty,4,5,47905.8
+HP00335,2025-03-18 03:38:52.849031,Africa,Laptops,88,1596.86,Delivered,12,Setup,30,5,140523.68
+HP00336,2024-12-26 03:38:52.849036,Asia-Pacific,Desktops,30,1596.86,Backordered,11,Network,30,1,47905.8
+HP00337,2024-07-10 03:38:52.849040,Asia-Pacific,Monitors,78,1596.86,Pending,5,Setup,22,3,124555.08
+HP00338,2024-09-14 03:38:52.849045,Europe,Accessories,6,1596.86,Cancelled,9,Network,66,5,9581.16
+HP00339,2024-12-18 03:38:52.849049,Middle East,Desktops,67,1596.86,Pending,2,Setup,12,3,106989.62
+HP00340,2024-11-06 03:38:52.849055,Africa,Accessories,80,1596.86,Cancelled,3,Warranty,36,5,127748.8
+HP00341,2025-03-27 03:38:52.849058,North America,Printers,7,1596.86,Pending,7,Software,18,4,11178.02
+HP00342,2025-03-29 03:38:52.849062,South America,Laptops,52,1596.86,Backordered,7,Warranty,53,5,83036.72
+HP00343,2024-12-07 03:38:52.849067,North America,Printers,14,1596.86,Backordered,6,Hardware,71,2,22356.04
+HP00344,2024-11-09 03:38:52.849071,Middle East,Desktops,73,1596.86,Delivered,6,Software,1,1,116570.78
+HP00345,2024-07-07 03:38:52.849084,South America,Monitors,15,1596.86,Delivered,2,Warranty,58,4,23952.9
+HP00346,2024-05-16 03:38:52.849089,Middle East,Accessories,21,1596.86,Cancelled,10,Hardware,6,4,33534.06
+HP00347,2024-10-14 03:38:52.849094,Asia-Pacific,Laptops,35,1596.86,Backordered,6,Network,70,2,55890.1
+HP00348,2025-01-23 03:38:52.849182,South America,Accessories,66,1596.86,Pending,4,Network,44,5,105392.76
+HP00349,2024-12-03 03:38:52.849188,Asia-Pacific,Desktops,91,1596.86,Pending,12,Setup,24,1,145314.26
+HP00350,2025-02-10 03:38:52.849192,North America,Accessories,2,1596.86,Pending,3,Software,19,4,3193.72
+HP00351,2024-11-25 03:38:52.849196,North America,Laptops,35,1596.86,Delivered,13,Network,18,1,55890.1
+HP00352,2025-03-04 03:38:52.849216,South America,Desktops,82,1596.86,Pending,11,Software,30,4,130942.52
+HP00353,2024-12-06 03:38:52.849221,South America,Accessories,78,1596.86,Delivered,13,Network,42,5,124555.08
+HP00354,2024-09-05 03:38:52.849229,Africa,Monitors,20,1596.86,Delivered,2,Setup,33,4,31937.2
+HP00355,2024-07-19 03:38:52.849233,Middle East,Desktops,82,1596.86,Cancelled,1,Warranty,12,4,130942.52
+HP00356,2025-05-06 03:38:52.849238,Africa,Desktops,10,1596.86,Pending,11,Setup,27,3,15968.6
+HP00357,2024-12-23 03:38:52.849242,Middle East,Monitors,25,1596.86,Pending,11,Hardware,39,5,39921.5
+HP00358,2024-12-28 03:38:52.849252,Africa,Printers,66,1596.86,Backordered,5,Network,9,2,105392.76
+HP00359,2025-05-16 03:38:52.849254,Asia-Pacific,Laptops,25,1596.86,Cancelled,2,Hardware,21,2,39921.5
+HP00360,2024-12-31 03:38:52.849257,South America,Printers,54,1596.86,Backordered,2,Hardware,29,5,86230.44
+HP00361,2024-06-03 03:38:52.849260,North America,Accessories,33,1596.86,Cancelled,7,Software,33,2,52696.38
+HP00362,2024-06-22 03:38:52.849262,Middle East,Monitors,36,1596.86,Pending,8,Network,62,5,57486.96
+HP00363,2024-08-29 03:38:52.849264,Middle East,Printers,95,1596.86,Delivered,13,Hardware,15,2,151701.7
+HP00364,2024-10-06 03:38:52.849268,North America,Desktops,14,1596.86,Delivered,10,Warranty,2,3,22356.04
+HP00365,2025-02-26 03:38:52.849272,Africa,Accessories,65,1596.86,Delivered,8,Hardware,52,2,103795.9
+HP00366,2025-05-01 03:38:52.849276,Middle East,Accessories,80,1596.86,Delivered,14,Warranty,44,4,127748.8
+HP00367,2024-05-26 03:38:52.849281,Asia-Pacific,Printers,54,1596.86,Delivered,4,Software,54,5,86230.44
+HP00368,2025-03-26 03:38:52.849285,South America,Printers,52,1596.86,Backordered,14,Hardware,18,1,83036.72
+HP00369,2024-07-16 03:38:52.849295,North America,Monitors,3,1596.86,Cancelled,1,Setup,3,1,4790.58
+HP00370,2024-11-17 03:38:52.849299,South America,Laptops,99,1596.86,Pending,11,Software,7,5,158089.14
+HP00371,2024-12-22 03:38:52.849302,Middle East,Printers,41,1596.86,Backordered,7,Warranty,43,3,65471.26
+HP00372,2024-05-22 03:38:52.849304,Middle East,Printers,6,1596.86,Cancelled,1,Software,38,2,9581.16
+HP00373,2024-07-12 03:38:52.849307,North America,Desktops,25,1596.86,Delivered,11,Hardware,37,3,39921.5
+HP00374,2024-07-13 03:38:52.849310,Asia-Pacific,Accessories,13,1596.86,Cancelled,4,Network,58,1,20759.18
+HP00375,2024-08-30 03:38:52.849312,Europe,Laptops,98,1596.86,Cancelled,8,Network,33,5,156492.28
+HP00376,2025-02-17 03:38:52.849315,North America,Desktops,8,1596.86,Delivered,2,Warranty,59,5,12774.88
+HP00377,2024-09-27 03:38:52.849318,Europe,Monitors,21,1596.86,Delivered,6,Warranty,11,3,33534.06
+HP00378,2024-10-24 03:38:52.849320,Africa,Monitors,98,1596.86,Delivered,13,Network,68,3,156492.28
+HP00379,2024-11-01 03:38:52.849323,Europe,Printers,68,1596.86,Pending,6,Warranty,68,2,108586.48
+HP00380,2024-10-10 03:38:52.849325,Asia-Pacific,Printers,25,1596.86,Delivered,12,Software,22,4,39921.5
+HP00381,2024-10-04 03:38:52.849328,Africa,Monitors,79,1596.86,Pending,9,Setup,66,4,126151.94
+HP00382,2024-08-19 03:38:52.849330,Europe,Printers,68,1596.86,Delivered,5,Setup,44,2,108586.48
+HP00383,2025-01-04 03:38:52.849333,Africa,Laptops,45,1596.86,Pending,10,Software,6,4,71858.7
+HP00384,2024-12-10 03:38:52.849335,Europe,Printers,60,1596.86,Cancelled,4,Setup,42,1,95811.6
+HP00385,2025-03-02 03:38:52.849338,Asia-Pacific,Accessories,12,1596.86,Backordered,5,Hardware,25,4,19162.32
+HP00386,2024-07-21 03:38:52.849340,Europe,Printers,32,1596.86,Cancelled,12,Software,57,2,51099.52
+HP00387,2025-04-03 03:38:52.849343,Europe,Desktops,96,1596.86,Cancelled,12,Warranty,55,4,153298.56
+HP00388,2024-11-11 03:38:52.849345,Europe,Laptops,92,1596.86,Delivered,10,Software,16,5,146911.12
+HP00389,2024-12-19 03:38:52.849348,North America,Desktops,13,1596.86,Pending,11,Network,14,3,20759.18
+HP00390,2024-05-25 03:38:52.849350,North America,Desktops,31,1596.86,Backordered,5,Warranty,39,1,49502.66
+HP00391,2025-04-23 03:38:52.849353,North America,Accessories,78,1596.86,Delivered,8,Network,28,5,124555.08
+HP00392,2024-06-16 03:38:52.849357,Asia-Pacific,Laptops,20,1596.86,Delivered,10,Warranty,51,5,31937.2
+HP00393,2024-07-19 03:38:52.849359,Africa,Laptops,18,1596.86,Delivered,12,Setup,49,2,28743.48
+HP00394,2025-02-07 03:38:52.849362,Middle East,Laptops,93,1596.86,Cancelled,8,Software,9,3,148507.98
+HP00395,2025-03-26 03:38:52.849364,Europe,Laptops,60,1596.86,Pending,2,Hardware,58,3,95811.6
+HP00396,2025-04-14 03:38:52.849367,Europe,Laptops,63,1596.86,Pending,7,Warranty,45,1,100602.18
+HP00397,2024-10-23 03:38:52.849369,Asia-Pacific,Accessories,6,1596.86,Backordered,8,Warranty,22,2,9581.16
+HP00398,2024-05-18 03:38:52.849372,Europe,Printers,32,1596.86,Pending,11,Network,32,1,51099.52
+HP00399,2024-11-26 03:38:52.849374,North America,Desktops,93,1596.86,Pending,6,Setup,69,4,148507.98
+HP00400,2024-10-19 03:38:52.849377,Middle East,Laptops,43,1596.86,Delivered,5,Network,69,5,68664.98
+HP00401,2025-02-14 03:38:52.849379,South America,Printers,2,1596.86,Delivered,11,Network,42,1,3193.72
+HP00402,2024-05-20 03:38:52.849385,Europe,Printers,60,1596.86,Cancelled,9,Setup,53,5,95811.6
+HP00403,2024-05-21 03:38:52.849387,North America,Desktops,23,1596.86,Delivered,13,Hardware,59,2,36727.78
+HP00404,2025-03-15 03:38:52.849391,South America,Accessories,83,1596.86,Delivered,3,Network,39,4,132539.38
+HP00405,2024-09-21 03:38:52.849393,Middle East,Monitors,31,1596.86,Delivered,12,Network,15,2,49502.66
+HP00406,2024-10-04 03:38:52.849396,South America,Monitors,5,1596.86,Delivered,13,Warranty,71,4,7984.3
+HP00407,2024-12-11 03:38:52.849399,North America,Printers,83,1596.86,Cancelled,13,Setup,29,4,132539.38
+HP00408,2024-05-25 03:38:52.849401,Africa,Desktops,34,1596.86,Delivered,10,Software,3,5,54293.24
+HP00409,2024-10-11 03:38:52.849404,Africa,Monitors,10,1596.86,Backordered,4,Hardware,10,2,15968.6
+HP00410,2024-12-09 03:38:52.849408,South America,Printers,89,1596.86,Backordered,9,Hardware,29,2,142120.54
+HP00411,2024-08-19 03:38:52.849412,Asia-Pacific,Accessories,2,1596.86,Backordered,6,Setup,35,1,3193.72
+HP00412,2024-11-03 03:38:52.849417,South America,Monitors,11,1596.86,Backordered,8,Warranty,6,2,17565.46
+HP00413,2024-11-11 03:38:52.849421,Europe,Printers,50,1596.86,Delivered,7,Warranty,12,1,79843.0
+HP00414,2024-09-05 03:38:52.849425,Europe,Printers,31,1596.86,Backordered,11,Setup,38,3,49502.66
+HP00415,2025-03-22 03:38:52.849430,Africa,Laptops,56,1596.86,Delivered,2,Warranty,19,3,89424.16
+HP00416,2024-06-01 03:38:52.849434,Asia-Pacific,Accessories,79,1596.86,Cancelled,3,Hardware,67,3,126151.94
+HP00417,2024-10-03 03:38:52.849452,North America,Laptops,73,1596.86,Backordered,1,Hardware,8,2,116570.78
+HP00418,2024-08-23 03:38:52.849457,Europe,Desktops,87,1596.86,Pending,9,Software,8,2,138926.82
+HP00419,2024-06-30 03:38:52.849462,Africa,Laptops,83,1596.86,Backordered,13,Setup,47,1,132539.38
+HP00420,2025-02-24 03:38:52.849466,Middle East,Laptops,9,1596.86,Backordered,7,Network,4,4,14371.74
+HP00421,2025-04-19 03:38:52.849472,Africa,Monitors,99,1596.86,Delivered,1,Network,51,1,158089.14
+HP00422,2024-10-01 03:38:52.849477,Europe,Printers,21,1596.86,Backordered,3,Software,67,3,33534.06
+HP00423,2025-01-27 03:38:52.849480,Europe,Accessories,73,1596.86,Pending,4,Software,45,1,116570.78
+HP00424,2025-02-02 03:38:52.849483,Africa,Laptops,28,1596.86,Delivered,4,Warranty,8,4,44712.08
+HP00425,2024-09-04 03:38:52.849486,North America,Accessories,62,1596.86,Delivered,5,Software,16,2,99005.32
+HP00426,2024-10-19 03:38:52.849490,South America,Laptops,7,1596.86,Cancelled,14,Software,67,1,11178.02
+HP00427,2024-06-11 03:38:52.849495,Europe,Desktops,80,1596.86,Cancelled,3,Network,9,3,127748.8
+HP00428,2024-11-24 03:38:52.849499,Africa,Laptops,16,1596.86,Backordered,3,Warranty,60,3,25549.76
+HP00429,2024-08-24 03:38:52.849504,Africa,Monitors,97,1596.86,Cancelled,1,Software,71,2,154895.42
+HP00430,2024-07-27 03:38:52.849509,Asia-Pacific,Printers,4,1596.86,Cancelled,7,Software,15,1,6387.44
+HP00431,2024-08-22 03:38:52.849513,South America,Desktops,4,1596.86,Cancelled,11,Warranty,71,4,6387.44
+HP00432,2025-01-26 03:38:52.849519,Middle East,Laptops,40,1596.86,Delivered,10,Setup,41,2,63874.4
+HP00433,2024-12-25 03:38:52.849524,North America,Accessories,17,1596.86,Delivered,14,Warranty,22,1,27146.62
+HP00434,2024-11-26 03:38:52.849527,Middle East,Desktops,52,1596.86,Delivered,1,Network,24,5,83036.72
+HP00435,2025-01-01 03:38:52.849530,South America,Desktops,93,1596.86,Cancelled,2,Setup,44,3,148507.98
+HP00436,2024-08-23 03:38:52.849532,South America,Laptops,52,1596.86,Delivered,13,Hardware,1,4,83036.72
+HP00437,2024-12-24 03:38:52.849535,South America,Desktops,36,1596.86,Cancelled,4,Warranty,10,4,57486.96
+HP00438,2024-06-03 03:38:52.849537,Middle East,Accessories,38,1596.86,Delivered,13,Network,56,4,60680.68
+HP00439,2024-09-15 03:38:52.849540,South America,Desktops,50,1596.86,Delivered,4,Setup,50,3,79843.0
+HP00440,2024-09-21 03:38:52.849542,Africa,Accessories,63,1596.86,Pending,5,Warranty,12,1,100602.18
+HP00441,2025-04-21 03:38:52.849545,Middle East,Laptops,63,1596.86,Backordered,11,Software,60,2,100602.18
+HP00442,2024-08-15 03:38:52.849547,South America,Printers,62,1596.86,Cancelled,2,Warranty,26,1,99005.32
+HP00443,2025-03-15 03:38:52.849550,Africa,Desktops,99,1596.86,Pending,4,Hardware,41,2,158089.14
+HP00444,2024-07-25 03:38:52.849552,Asia-Pacific,Printers,7,1596.86,Delivered,1,Warranty,36,4,11178.02
+HP00445,2025-03-16 03:38:52.849555,South America,Accessories,27,1596.86,Cancelled,2,Setup,23,1,43115.22
+HP00446,2024-08-05 03:38:52.849558,Middle East,Desktops,92,1596.86,Delivered,1,Setup,43,4,146911.12
+HP00447,2025-02-14 03:38:52.849560,Europe,Monitors,86,1596.86,Backordered,10,Warranty,6,5,137329.96
+HP00448,2024-12-30 03:38:52.849563,South America,Printers,14,1596.86,Pending,10,Setup,69,4,22356.04
+HP00449,2025-04-20 03:38:52.849565,Europe,Desktops,71,1596.86,Backordered,13,Software,43,4,113377.06
+HP00450,2024-06-23 03:38:52.849568,Africa,Printers,86,1596.86,Pending,4,Warranty,25,2,137329.96
+HP00451,2024-06-28 03:38:52.849570,Asia-Pacific,Desktops,5,1596.86,Delivered,4,Software,18,5,7984.3
+HP00452,2024-07-30 03:38:52.849573,North America,Laptops,55,1596.86,Backordered,7,Software,62,4,87827.3
+HP00453,2024-12-29 03:38:52.849576,Asia-Pacific,Printers,2,1596.86,Backordered,10,Network,13,4,3193.72
+HP00454,2024-09-02 03:38:52.849578,South America,Monitors,62,1596.86,Delivered,11,Warranty,43,5,99005.32
+HP00455,2025-03-31 03:38:52.849581,Europe,Monitors,91,1596.86,Backordered,11,Setup,28,5,145314.26
+HP00456,2024-05-21 03:38:52.849583,Europe,Accessories,21,1596.86,Cancelled,9,Software,18,1,33534.06
+HP00457,2024-10-07 03:38:52.849586,Middle East,Desktops,79,1596.86,Pending,9,Network,59,2,126151.94
+HP00458,2025-03-03 03:38:52.849590,Europe,Printers,21,1596.86,Pending,5,Warranty,60,5,33534.06
+HP00459,2025-01-20 03:38:52.849592,Middle East,Accessories,10,1596.86,Pending,10,Warranty,63,5,15968.6
+HP00460,2024-10-20 03:38:52.849595,Africa,Printers,87,1596.86,Cancelled,1,Hardware,57,3,138926.82
+HP00461,2024-10-12 03:38:52.849606,North America,Desktops,58,1596.86,Pending,1,Hardware,51,5,92617.88
+HP00462,2024-06-13 03:38:52.849609,South America,Monitors,39,1596.86,Delivered,6,Software,56,2,62277.54
+HP00463,2025-04-15 03:38:52.849611,Middle East,Laptops,5,1596.86,Backordered,2,Hardware,27,4,7984.3
+HP00464,2025-03-05 03:38:52.849614,North America,Monitors,65,1596.86,Cancelled,8,Software,32,4,103795.9
+HP00465,2024-09-20 03:38:52.849617,Europe,Accessories,13,1596.86,Pending,13,Setup,9,4,20759.18
+HP00466,2024-12-08 03:38:52.849619,Europe,Laptops,85,1596.86,Delivered,9,Software,68,4,135733.1
+HP00467,2025-05-02 03:38:52.849622,North America,Accessories,90,1596.86,Backordered,13,Hardware,46,3,143717.4
+HP00468,2025-03-02 03:38:52.849624,Europe,Desktops,85,1596.86,Backordered,4,Setup,67,5,135733.1
+HP00469,2024-07-06 03:38:52.849627,Africa,Laptops,53,1596.86,Cancelled,5,Hardware,26,4,84633.58
+HP00470,2025-02-21 03:38:52.849630,Africa,Accessories,82,1596.86,Cancelled,11,Software,8,1,130942.52
+HP00471,2025-03-30 03:38:52.849632,North America,Desktops,45,1596.86,Cancelled,8,Network,6,4,71858.7
+HP00472,2024-11-18 03:38:52.849635,Middle East,Monitors,32,1596.86,Delivered,3,Warranty,24,5,51099.52
+HP00473,2024-08-17 03:38:52.849637,Middle East,Desktops,36,1596.86,Delivered,5,Hardware,48,4,57486.96
+HP00474,2025-02-11 03:38:52.849640,North America,Printers,81,1596.86,Cancelled,3,Software,45,3,129345.66
+HP00475,2025-04-19 03:38:52.849642,Middle East,Desktops,99,1596.86,Pending,12,Setup,13,2,158089.14
+HP00476,2025-02-21 03:38:52.849645,Middle East,Desktops,60,1596.86,Backordered,10,Hardware,69,2,95811.6
+HP00477,2025-02-28 03:38:52.849647,Africa,Printers,11,1596.86,Backordered,3,Hardware,25,5,17565.46
+HP00478,2025-01-04 03:38:52.849649,Middle East,Accessories,63,1596.86,Delivered,3,Warranty,20,2,100602.18
+HP00479,2025-03-25 03:38:52.849652,Asia-Pacific,Accessories,21,1596.86,Backordered,13,Software,66,2,33534.06
+HP00480,2024-12-07 03:38:52.849654,South America,Desktops,52,1596.86,Pending,12,Network,45,1,83036.72
+HP00481,2024-10-22 03:38:52.849657,Europe,Printers,55,1596.86,Backordered,7,Setup,47,5,87827.3
+HP00482,2024-05-24 03:38:52.849667,Asia-Pacific,Printers,26,1596.86,Delivered,7,Software,63,5,41518.36
+HP00483,2024-11-28 03:38:52.849670,Middle East,Monitors,68,1596.86,Delivered,7,Setup,55,2,108586.48
+HP00484,2025-03-31 03:38:52.849672,Africa,Accessories,34,1596.86,Pending,10,Hardware,19,2,54293.24
+HP00485,2024-05-20 03:38:52.849675,North America,Laptops,52,1596.86,Pending,8,Warranty,35,2,83036.72
+HP00486,2024-12-21 03:38:52.849677,Middle East,Accessories,82,1596.86,Backordered,5,Warranty,53,3,130942.52
+HP00487,2025-01-30 03:38:52.849680,Africa,Accessories,99,1596.86,Backordered,5,Network,26,4,158089.14
+HP00488,2024-06-12 03:38:52.849682,South America,Monitors,93,1596.86,Delivered,14,Warranty,14,3,148507.98
+HP00489,2024-05-26 03:38:52.849686,Middle East,Laptops,52,1596.86,Pending,4,Hardware,45,5,83036.72
+HP00490,2024-06-21 03:38:52.849689,North America,Monitors,29,1596.86,Pending,7,Network,44,1,46308.94
+HP00491,2024-05-24 03:38:52.849691,Africa,Laptops,38,1596.86,Pending,10,Software,65,4,60680.68
+HP00492,2024-06-08 03:38:52.849694,Africa,Desktops,42,1596.86,Backordered,4,Warranty,51,1,67068.12
+HP00493,2025-02-02 03:38:52.849696,Africa,Laptops,21,1596.86,Pending,2,Network,43,5,33534.06
+HP00494,2025-04-26 03:38:52.849699,South America,Monitors,42,1596.86,Delivered,4,Hardware,23,5,67068.12
+HP00495,2025-02-15 03:38:52.849702,Middle East,Accessories,13,1596.86,Delivered,13,Setup,56,1,20759.18
+HP00496,2025-05-07 03:38:52.849705,South America,Laptops,64,1596.86,Backordered,13,Setup,19,1,102199.04
+HP00497,2025-01-23 03:38:52.849707,Europe,Laptops,17,1596.86,Cancelled,8,Hardware,55,1,27146.62
+HP00498,2025-03-01 03:38:52.849710,Europe,Printers,9,1596.86,Backordered,9,Hardware,60,5,14371.74
+HP00499,2024-12-14 03:38:52.849712,Middle East,Accessories,41,1596.86,Cancelled,3,Setup,59,2,65471.26
+HP00500,2024-08-15 03:38:52.849715,South America,Desktops,1,1596.86,Pending,7,Network,33,1,1596.86
+HP00501,2025-01-29 03:38:52.849718,North America,Monitors,2,1596.86,Backordered,14,Setup,19,4,3193.72
+HP00502,2025-01-17 03:38:52.849720,Africa,Desktops,60,1596.86,Delivered,12,Hardware,28,5,95811.6
+HP00503,2024-05-31 03:38:52.849723,Africa,Accessories,48,1596.86,Pending,14,Warranty,52,3,76649.28
+HP00504,2025-03-18 03:38:52.849725,Middle East,Laptops,29,1596.86,Delivered,9,Software,49,3,46308.94
+HP00505,2025-05-03 03:38:52.849728,Europe,Laptops,97,1596.86,Pending,11,Warranty,37,4,154895.42
+HP00506,2024-11-04 03:38:52.849731,Europe,Accessories,10,1596.86,Backordered,4,Warranty,26,2,15968.6
+HP00507,2024-05-31 03:38:52.849733,Africa,Laptops,58,1596.86,Cancelled,10,Hardware,40,1,92617.88
+HP00508,2024-07-07 03:38:52.849736,Middle East,Laptops,60,1596.86,Pending,3,Setup,38,5,95811.6
+HP00509,2025-04-16 03:38:52.849739,South America,Laptops,21,1596.86,Cancelled,5,Network,54,1,33534.06
+HP00510,2025-03-15 03:38:52.849741,Europe,Monitors,28,1596.86,Pending,1,Warranty,22,5,44712.08
+HP00511,2025-02-19 03:38:52.849744,South America,Monitors,75,1596.86,Delivered,3,Setup,16,3,119764.5
+HP00512,2024-09-14 03:38:52.849747,Europe,Printers,34,1596.86,Delivered,8,Network,28,1,54293.24
+HP00513,2025-02-12 03:38:52.849750,Europe,Desktops,8,1596.86,Pending,11,Warranty,35,4,12774.88
+HP00514,2024-08-20 03:38:52.849752,Asia-Pacific,Accessories,59,1596.86,Cancelled,8,Network,60,2,94214.74
+HP00515,2025-02-03 03:38:52.849755,Europe,Accessories,86,1596.86,Backordered,13,Setup,45,4,137329.96
+HP00516,2024-08-15 03:38:52.849758,North America,Accessories,72,1596.86,Backordered,4,Software,46,2,114973.92
+HP00517,2025-03-26 03:38:52.849761,Middle East,Printers,49,1596.86,Delivered,2,Setup,55,1,78246.14
+HP00518,2025-03-16 03:38:52.849763,Middle East,Monitors,79,1596.86,Backordered,13,Hardware,26,1,126151.94
+HP00519,2024-11-03 03:38:52.849766,South America,Printers,17,1596.86,Delivered,8,Network,25,2,27146.62
+HP00520,2025-04-28 03:38:52.849768,Europe,Accessories,60,1596.86,Backordered,8,Software,65,3,95811.6
+HP00521,2024-12-28 03:38:52.849771,North America,Desktops,87,1596.86,Pending,10,Network,6,5,138926.82
+HP00522,2025-03-01 03:38:52.849774,South America,Laptops,88,1596.86,Delivered,4,Network,23,4,140523.68
+HP00523,2025-03-19 03:38:52.849777,Asia-Pacific,Monitors,45,1596.86,Delivered,3,Warranty,64,4,71858.7
+HP00524,2024-06-18 03:38:52.849782,South America,Monitors,83,1596.86,Pending,2,Hardware,43,4,132539.38
+HP00525,2024-12-16 03:38:52.849786,South America,Printers,69,1596.86,Delivered,9,Network,23,1,110183.34
+HP00526,2024-05-26 03:38:52.849791,Europe,Monitors,32,1596.86,Backordered,1,Setup,30,4,51099.52
+HP00527,2025-02-12 03:38:52.849795,Asia-Pacific,Accessories,44,1596.86,Backordered,7,Setup,18,5,70261.84
+HP00528,2025-05-12 03:38:52.849799,South America,Accessories,65,1596.86,Delivered,5,Warranty,21,5,103795.9
+HP00529,2025-03-15 03:38:52.849804,North America,Printers,87,1596.86,Backordered,8,Hardware,57,2,138926.82
+HP00530,2024-07-08 03:38:52.849809,North America,Accessories,8,1596.86,Cancelled,4,Hardware,23,1,12774.88
+HP00531,2024-09-05 03:38:52.849819,Middle East,Desktops,77,1596.86,Delivered,7,Setup,45,5,122958.22
+HP00532,2025-02-05 03:38:52.849822,Asia-Pacific,Printers,72,1596.86,Pending,13,Software,44,3,114973.92
+HP00533,2025-04-15 03:38:52.849824,Asia-Pacific,Desktops,87,1596.86,Cancelled,5,Warranty,47,1,138926.82
+HP00534,2024-08-11 03:38:52.849827,Middle East,Laptops,43,1596.86,Delivered,14,Warranty,40,1,68664.98
+HP00535,2024-07-05 03:38:52.849829,South America,Desktops,1,1596.86,Pending,5,Setup,51,5,1596.86
+HP00536,2024-07-05 03:38:52.849832,Asia-Pacific,Laptops,51,1596.86,Backordered,14,Setup,42,3,81439.86
+HP00537,2025-03-07 03:38:52.849835,North America,Laptops,24,1596.86,Pending,9,Software,7,2,38324.64
+HP00538,2025-05-05 03:38:52.849837,North America,Desktops,99,1596.86,Cancelled,9,Software,50,5,158089.14
+HP00539,2024-11-05 03:38:52.849840,Europe,Printers,24,1596.86,Backordered,13,Hardware,48,3,38324.64
+HP00540,2024-12-15 03:38:52.849842,Asia-Pacific,Accessories,17,1596.86,Delivered,9,Warranty,6,1,27146.62
+HP00541,2025-04-20 03:38:52.849845,South America,Accessories,5,1596.86,Backordered,12,Warranty,9,3,7984.3
+HP00542,2025-01-27 03:38:52.849853,Middle East,Laptops,20,1596.86,Delivered,6,Setup,57,1,31937.2
+HP00543,2025-02-18 03:38:52.849858,Middle East,Laptops,21,1596.86,Delivered,6,Hardware,31,5,33534.06
+HP00544,2024-06-23 03:38:52.849860,South America,Printers,58,1596.86,Pending,5,Warranty,21,5,92617.88
+HP00545,2024-10-26 03:38:52.849863,Africa,Monitors,31,1596.86,Pending,9,Hardware,40,4,49502.66
+HP00546,2024-10-05 03:38:52.849865,Europe,Desktops,11,1596.86,Pending,10,Hardware,45,4,17565.46
+HP00547,2025-03-29 03:38:52.849868,Middle East,Laptops,52,1596.86,Cancelled,8,Setup,49,4,83036.72
+HP00548,2024-10-26 03:38:52.849870,Asia-Pacific,Accessories,15,1596.86,Cancelled,7,Hardware,20,5,23952.9
+HP00549,2024-09-05 03:38:52.849873,Europe,Printers,83,1596.86,Pending,7,Software,17,2,132539.38
+HP00550,2024-07-02 03:38:52.849876,Asia-Pacific,Desktops,7,1596.86,Cancelled,6,Software,28,5,11178.02
+HP00551,2024-07-03 03:38:52.849878,North America,Printers,28,1596.86,Backordered,5,Network,41,3,44712.08
+HP00552,2025-02-12 03:38:52.849881,Europe,Desktops,51,1596.86,Backordered,13,Setup,66,5,81439.86
+HP00553,2025-03-28 03:38:52.849883,Middle East,Desktops,58,1596.86,Cancelled,4,Network,25,5,92617.88
+HP00554,2025-02-28 03:38:52.849886,Europe,Laptops,5,1596.86,Cancelled,3,Software,58,1,7984.3
+HP00555,2024-07-01 03:38:52.849888,Europe,Printers,5,1596.86,Backordered,3,Network,41,1,7984.3
+HP00556,2024-07-30 03:38:52.849891,Europe,Printers,94,1596.86,Delivered,6,Setup,6,1,150104.84
+HP00557,2024-07-30 03:38:52.849893,Africa,Accessories,96,1596.86,Backordered,4,Setup,38,5,153298.56
+HP00558,2024-10-18 03:38:52.849896,Europe,Accessories,8,1596.86,Backordered,12,Hardware,6,2,12774.88
+HP00559,2025-03-30 03:38:52.849899,Asia-Pacific,Laptops,64,1596.86,Cancelled,12,Warranty,45,3,102199.04
+HP00560,2024-12-16 03:38:52.849901,North America,Laptops,10,1596.86,Backordered,6,Hardware,14,3,15968.6
+HP00561,2024-08-08 03:38:52.849904,South America,Monitors,38,1596.86,Cancelled,3,Setup,66,2,60680.68
+HP00562,2024-10-12 03:38:52.849909,Europe,Accessories,96,1596.86,Cancelled,4,Software,40,2,153298.56
+HP00563,2024-06-12 03:38:52.849913,Middle East,Desktops,92,1596.86,Pending,9,Software,3,3,146911.12
+HP00564,2024-05-19 03:38:52.849918,Europe,Printers,81,1596.86,Backordered,5,Hardware,24,4,129345.66
+HP00565,2024-12-30 03:38:52.849922,Middle East,Laptops,95,1596.86,Delivered,13,Setup,19,1,151701.7
+HP00566,2025-01-16 03:38:52.849945,Asia-Pacific,Printers,8,1596.86,Pending,7,Software,18,1,12774.88
+HP00567,2024-09-20 03:38:52.849951,Middle East,Printers,25,1596.86,Cancelled,10,Setup,64,3,39921.5
+HP00568,2025-02-06 03:38:52.849954,South America,Monitors,73,1596.86,Cancelled,2,Software,35,2,116570.78
+HP00569,2024-11-15 03:38:52.849956,North America,Accessories,66,1596.86,Delivered,14,Setup,62,4,105392.76
+HP00570,2024-10-20 03:38:52.849959,Middle East,Laptops,79,1596.86,Cancelled,14,Network,1,3,126151.94
+HP00571,2024-10-23 03:38:52.849961,Middle East,Printers,50,1596.86,Backordered,5,Setup,25,1,79843.0
+HP00572,2024-09-12 03:38:52.849964,North America,Laptops,67,1596.86,Pending,9,Setup,45,5,106989.62
+HP00573,2024-12-22 03:38:52.849967,South America,Desktops,49,1596.86,Cancelled,11,Hardware,49,2,78246.14
+HP00574,2024-11-19 03:38:52.849969,Europe,Monitors,36,1596.86,Cancelled,3,Network,16,5,57486.96
+HP00575,2024-11-23 03:38:52.849972,Middle East,Desktops,68,1596.86,Delivered,14,Warranty,19,3,108586.48
+HP00576,2024-12-15 03:38:52.849974,North America,Laptops,78,1596.86,Backordered,9,Hardware,23,1,124555.08
+HP00577,2024-09-17 03:38:52.849977,Asia-Pacific,Laptops,41,1596.86,Cancelled,14,Warranty,25,4,65471.26
+HP00578,2024-11-05 03:38:52.849979,North America,Accessories,89,1596.86,Delivered,11,Software,16,5,142120.54
+HP00579,2024-09-21 03:38:52.849982,Asia-Pacific,Printers,62,1596.86,Cancelled,6,Warranty,54,4,99005.32
+HP00580,2025-02-06 03:38:52.849984,South America,Printers,10,1596.86,Delivered,4,Setup,1,1,15968.6
+HP00581,2024-09-14 03:38:52.849986,Europe,Desktops,21,1596.86,Delivered,7,Warranty,42,5,33534.06
+HP00582,2024-11-18 03:38:52.849989,North America,Monitors,36,1596.86,Backordered,8,Hardware,19,4,57486.96
+HP00583,2024-10-04 03:38:52.849991,Africa,Printers,12,1596.86,Cancelled,6,Hardware,34,4,19162.32
+HP00584,2024-07-15 03:38:52.849994,Middle East,Accessories,91,1596.86,Backordered,5,Warranty,55,5,145314.26
+HP00585,2025-04-16 03:38:52.849996,South America,Desktops,2,1596.86,Delivered,6,Hardware,18,1,3193.72
+HP00586,2024-08-27 03:38:52.849999,North America,Desktops,13,1596.86,Pending,5,Hardware,34,4,20759.18
+HP00587,2025-05-05 03:38:52.850001,Middle East,Accessories,53,1596.86,Cancelled,8,Warranty,45,3,84633.58
+HP00588,2024-06-23 03:38:52.850004,North America,Monitors,32,1596.86,Pending,1,Network,6,5,51099.52
+HP00589,2024-06-07 03:38:52.850006,Asia-Pacific,Accessories,95,1596.86,Cancelled,11,Network,21,2,151701.7
+HP00590,2024-12-27 03:38:52.850009,North America,Monitors,16,1596.86,Backordered,7,Software,70,2,25549.76
+HP00591,2025-01-01 03:38:52.850011,Africa,Accessories,32,1596.86,Backordered,10,Hardware,48,1,51099.52
+HP00592,2024-09-08 03:38:52.850014,North America,Accessories,32,1596.86,Backordered,10,Warranty,39,3,51099.52
+HP00593,2024-12-16 03:38:52.850016,North America,Laptops,98,1596.86,Backordered,11,Hardware,31,4,156492.28
+HP00594,2024-12-24 03:38:52.850021,Africa,Desktops,11,1596.86,Backordered,2,Setup,10,2,17565.46
+HP00595,2025-02-20 03:38:52.850024,South America,Accessories,10,1596.86,Pending,14,Hardware,30,1,15968.6
+HP00596,2024-12-28 03:38:52.850026,North America,Accessories,15,1596.86,Backordered,9,Hardware,18,3,23952.9
+HP00597,2025-02-06 03:38:52.850029,Africa,Printers,17,1596.86,Delivered,1,Network,60,3,27146.62
+HP00598,2024-12-03 03:38:52.850031,Middle East,Desktops,40,1596.86,Delivered,11,Warranty,15,1,63874.4
+HP00599,2025-05-12 03:38:52.850034,Asia-Pacific,Printers,18,1596.86,Pending,10,Hardware,4,1,28743.48
+HP00600,2024-09-29 03:38:52.850036,Asia-Pacific,Desktops,55,1596.86,Cancelled,6,Network,63,4,87827.3
+HP00601,2025-04-25 03:38:52.850039,North America,Printers,73,1596.86,Delivered,9,Software,40,1,116570.78
+HP00602,2025-04-14 03:38:52.850041,South America,Accessories,25,1596.86,Cancelled,1,Network,9,4,39921.5
+HP00603,2024-05-26 03:38:52.850044,South America,Accessories,59,1596.86,Pending,4,Network,9,4,94214.74
+HP00604,2024-06-04 03:38:52.850046,Middle East,Laptops,78,1596.86,Cancelled,4,Network,26,5,124555.08
+HP00605,2025-02-08 03:38:52.850049,North America,Printers,89,1596.86,Cancelled,9,Hardware,4,3,142120.54
+HP00606,2025-05-09 03:38:52.850051,Asia-Pacific,Monitors,22,1596.86,Cancelled,11,Hardware,16,3,35130.92
+HP00607,2024-06-02 03:38:52.850054,South America,Laptops,30,1596.86,Cancelled,5,Software,15,3,47905.8
+HP00608,2024-10-07 03:38:52.850056,North America,Printers,84,1596.86,Pending,5,Setup,52,5,134136.24
+HP00609,2025-02-26 03:38:52.850059,South America,Printers,85,1596.86,Delivered,6,Setup,69,4,135733.1
+HP00610,2025-01-03 03:38:52.850062,Africa,Laptops,44,1596.86,Backordered,1,Setup,5,4,70261.84
+HP00611,2024-09-29 03:38:52.850064,South America,Accessories,32,1596.86,Cancelled,1,Software,20,1,51099.52
+HP00612,2025-03-14 03:38:52.850067,Asia-Pacific,Printers,51,1596.86,Delivered,9,Setup,18,5,81439.86
+HP00613,2024-05-18 03:38:52.850069,Europe,Accessories,46,1596.86,Delivered,3,Setup,2,1,73455.56
+HP00614,2024-12-26 03:38:52.850072,Middle East,Laptops,21,1596.86,Pending,4,Network,13,5,33534.06
+HP00615,2024-05-28 03:38:52.850074,Middle East,Accessories,99,1596.86,Delivered,1,Hardware,4,1,158089.14
+HP00616,2024-06-10 03:38:52.850077,Asia-Pacific,Desktops,32,1596.86,Pending,9,Hardware,42,2,51099.52
+HP00617,2025-01-11 03:38:52.850080,South America,Monitors,94,1596.86,Cancelled,8,Network,61,3,150104.84
+HP00618,2024-10-22 03:38:52.850082,North America,Printers,39,1596.86,Cancelled,2,Network,8,3,62277.54
+HP00619,2024-11-05 03:38:52.850085,South America,Monitors,12,1596.86,Backordered,8,Network,67,4,19162.32
+HP00620,2024-07-06 03:38:52.850088,Asia-Pacific,Accessories,47,1596.86,Backordered,7,Hardware,63,2,75052.42
+HP00621,2025-01-06 03:38:52.850091,Middle East,Printers,18,1596.86,Backordered,11,Setup,9,3,28743.48
+HP00622,2025-03-03 03:38:52.850093,South America,Accessories,21,1596.86,Delivered,6,Network,11,4,33534.06
+HP00623,2024-12-19 03:38:52.850096,Middle East,Desktops,13,1596.86,Cancelled,1,Software,42,2,20759.18
+HP00624,2024-09-10 03:38:52.850098,North America,Laptops,21,1596.86,Pending,7,Network,13,3,33534.06
+HP00625,2024-08-10 03:38:52.850101,Middle East,Printers,8,1596.86,Backordered,10,Warranty,36,1,12774.88
+HP00626,2025-05-06 03:38:52.850104,Middle East,Desktops,46,1596.86,Pending,7,Network,13,5,73455.56
+HP00627,2025-03-19 03:38:52.850106,Europe,Desktops,7,1596.86,Pending,13,Hardware,12,2,11178.02
+HP00628,2025-03-23 03:38:52.850108,Europe,Printers,23,1596.86,Backordered,14,Network,37,4,36727.78
+HP00629,2025-01-05 03:38:52.850112,Africa,Accessories,96,1596.86,Cancelled,9,Warranty,52,2,153298.56
+HP00630,2025-02-25 03:38:52.850117,Europe,Desktops,75,1596.86,Backordered,1,Software,71,4,119764.5
+HP00631,2024-07-18 03:38:52.850121,Middle East,Monitors,86,1596.86,Pending,2,Setup,2,2,137329.96
+HP00632,2025-04-10 03:38:52.850126,Asia-Pacific,Desktops,22,1596.86,Backordered,11,Network,56,4,35130.92
+HP00633,2024-08-01 03:38:52.850131,Middle East,Accessories,89,1596.86,Pending,9,Warranty,60,3,142120.54
+HP00634,2024-07-15 03:38:52.850145,Asia-Pacific,Accessories,22,1596.86,Pending,13,Warranty,23,1,35130.92
+HP00635,2024-11-08 03:38:52.850147,Asia-Pacific,Monitors,92,1596.86,Backordered,9,Software,40,3,146911.12
+HP00636,2025-05-02 03:38:52.850150,Europe,Desktops,29,1596.86,Delivered,13,Hardware,64,1,46308.94
+HP00637,2024-12-25 03:38:52.850153,South America,Accessories,13,1596.86,Backordered,6,Network,23,3,20759.18
+HP00638,2024-08-19 03:38:52.850156,North America,Printers,82,1596.86,Delivered,6,Warranty,29,3,130942.52
+HP00639,2024-09-20 03:38:52.850158,Europe,Laptops,2,1596.86,Pending,4,Software,51,2,3193.72
+HP00640,2024-06-26 03:38:52.850161,Europe,Laptops,29,1596.86,Pending,4,Setup,69,5,46308.94
+HP00641,2024-12-03 03:38:52.850163,South America,Laptops,85,1596.86,Delivered,5,Warranty,31,4,135733.1
+HP00642,2024-06-08 03:38:52.850166,North America,Desktops,79,1596.86,Pending,3,Software,50,4,126151.94
+HP00643,2024-09-04 03:38:52.850168,Middle East,Monitors,52,1596.86,Delivered,1,Hardware,20,4,83036.72
+HP00644,2024-09-14 03:38:52.850171,Africa,Accessories,27,1596.86,Delivered,1,Hardware,55,1,43115.22
+HP00645,2024-10-21 03:38:52.850173,Africa,Printers,50,1596.86,Pending,12,Warranty,2,4,79843.0
+HP00646,2025-04-12 03:38:52.850176,Middle East,Printers,95,1596.86,Cancelled,13,Warranty,25,4,151701.7
+HP00647,2025-01-15 03:38:52.850178,Europe,Desktops,79,1596.86,Delivered,7,Network,13,2,126151.94
+HP00648,2024-06-16 03:38:52.850181,North America,Laptops,23,1596.86,Backordered,1,Software,70,3,36727.78
+HP00649,2025-03-01 03:38:52.850183,Europe,Desktops,88,1596.86,Backordered,1,Warranty,67,4,140523.68
+HP00650,2025-01-20 03:38:52.850186,Asia-Pacific,Monitors,44,1596.86,Pending,3,Network,58,5,70261.84
+HP00651,2024-05-31 03:38:52.850188,Europe,Monitors,77,1596.86,Cancelled,10,Network,64,4,122958.22
+HP00652,2024-10-03 03:38:52.850194,Europe,Accessories,22,1596.86,Pending,4,Warranty,69,1,35130.92
+HP00653,2024-12-06 03:38:52.850197,Middle East,Accessories,43,1596.86,Cancelled,4,Hardware,59,1,68664.98
+HP00654,2024-06-21 03:38:52.850199,Middle East,Monitors,37,1596.86,Delivered,2,Software,60,1,59083.82
+HP00655,2025-05-08 03:38:52.850202,Middle East,Monitors,61,1596.86,Delivered,1,Software,62,4,97408.46
+HP00656,2024-05-20 03:38:52.850205,Africa,Monitors,97,1596.86,Delivered,3,Hardware,16,2,154895.42
+HP00657,2024-12-20 03:38:52.850208,Asia-Pacific,Desktops,56,1596.86,Delivered,11,Warranty,68,5,89424.16
+HP00658,2025-02-17 03:38:52.850211,Middle East,Monitors,3,1596.86,Backordered,4,Software,15,4,4790.58
+HP00659,2024-07-23 03:38:52.850213,North America,Printers,63,1596.86,Backordered,3,Warranty,55,2,100602.18
+HP00660,2024-10-31 03:38:52.850216,Africa,Laptops,19,1596.86,Pending,8,Warranty,35,2,30340.34
+HP00661,2024-06-18 03:38:52.850218,South America,Monitors,23,1596.86,Cancelled,14,Network,55,4,36727.78
+HP00662,2024-09-04 03:38:52.850221,North America,Laptops,29,1596.86,Delivered,10,Hardware,14,4,46308.94
+HP00663,2024-09-25 03:38:52.850223,North America,Desktops,30,1596.86,Delivered,1,Warranty,49,2,47905.8
+HP00664,2025-04-20 03:38:52.850226,Middle East,Laptops,39,1596.86,Cancelled,14,Setup,7,2,62277.54
+HP00665,2025-04-06 03:38:52.850228,South America,Desktops,25,1596.86,Cancelled,2,Hardware,30,2,39921.5
+HP00666,2024-12-02 03:38:52.850231,South America,Printers,8,1596.86,Pending,13,Software,49,4,12774.88
+HP00667,2025-03-07 03:38:52.850234,Africa,Desktops,58,1596.86,Cancelled,7,Network,16,2,92617.88
+HP00668,2025-03-20 03:38:52.850236,South America,Desktops,16,1596.86,Delivered,4,Software,51,1,25549.76
+HP00669,2025-01-17 03:38:52.850239,Asia-Pacific,Accessories,72,1596.86,Delivered,8,Software,42,4,114973.92
+HP00670,2024-09-26 03:38:52.850241,Middle East,Monitors,1,1596.86,Delivered,11,Hardware,17,1,1596.86
+HP00671,2024-10-27 03:38:52.850244,South America,Monitors,5,1596.86,Delivered,13,Software,63,3,7984.3
+HP00672,2024-05-30 03:38:52.850246,Africa,Printers,3,1596.86,Delivered,3,Warranty,45,4,4790.58
+HP00673,2025-05-01 03:38:52.850249,Asia-Pacific,Printers,65,1596.86,Pending,6,Software,7,3,103795.9
+HP00674,2024-12-27 03:38:52.850251,Europe,Monitors,4,1596.86,Delivered,9,Network,27,2,6387.44
+HP00675,2024-11-09 03:38:52.850254,Europe,Accessories,99,1596.86,Pending,1,Network,10,2,158089.14
+HP00676,2024-10-07 03:38:52.850256,Asia-Pacific,Monitors,96,1596.86,Delivered,1,Setup,34,5,153298.56
+HP00677,2024-08-13 03:38:52.850259,Africa,Accessories,64,1596.86,Backordered,8,Network,36,2,102199.04
+HP00678,2024-07-07 03:38:52.850261,Asia-Pacific,Printers,98,1596.86,Backordered,3,Software,25,3,156492.28
+HP00679,2024-05-31 03:38:52.850264,Middle East,Laptops,89,1596.86,Backordered,5,Network,6,2,142120.54
+HP00680,2024-10-17 03:38:52.850266,Middle East,Printers,10,1596.86,Backordered,1,Hardware,24,4,15968.6
+HP00681,2024-09-29 03:38:52.850269,Europe,Printers,21,1596.86,Pending,5,Network,18,2,33534.06
+HP00682,2024-11-24 03:38:52.850271,South America,Desktops,46,1596.86,Pending,11,Warranty,6,5,73455.56
+HP00683,2024-08-02 03:38:52.850274,Africa,Desktops,91,1596.86,Cancelled,6,Hardware,29,2,145314.26
+HP00684,2024-09-13 03:38:52.850277,Europe,Desktops,27,1596.86,Delivered,8,Setup,25,3,43115.22
+HP00685,2025-04-21 03:38:52.850279,South America,Desktops,66,1596.86,Backordered,13,Warranty,55,3,105392.76
+HP00686,2024-12-27 03:38:52.850281,South America,Accessories,41,1596.86,Pending,14,Software,46,2,65471.26
+HP00687,2024-12-06 03:38:52.850284,Middle East,Monitors,13,1596.86,Delivered,3,Software,24,3,20759.18
+HP00688,2024-07-27 03:38:52.850286,North America,Laptops,9,1596.86,Delivered,3,Software,26,3,14371.74
+HP00689,2024-10-27 03:38:52.850291,North America,Printers,36,1596.86,Pending,12,Warranty,28,5,57486.96
+HP00690,2024-09-16 03:38:52.850296,Asia-Pacific,Accessories,86,1596.86,Backordered,11,Warranty,3,4,137329.96
+HP00691,2024-06-20 03:38:52.850300,Middle East,Laptops,90,1596.86,Cancelled,11,Warranty,38,5,143717.4
+HP00692,2024-09-23 03:38:52.850305,South America,Accessories,58,1596.86,Delivered,10,Hardware,61,1,92617.88
+HP00693,2025-03-08 03:38:52.850309,Africa,Accessories,54,1596.86,Cancelled,9,Hardware,51,5,86230.44
+HP00694,2025-04-04 03:38:52.850313,North America,Printers,12,1596.86,Backordered,4,Software,48,2,19162.32
+HP00695,2024-05-30 03:38:52.850318,South America,Monitors,81,1596.86,Backordered,4,Network,21,4,129345.66
+HP00696,2024-09-27 03:38:52.850324,North America,Desktops,78,1596.86,Cancelled,12,Software,54,2,124555.08
+HP00697,2024-07-13 03:38:52.850329,North America,Monitors,14,1596.86,Backordered,7,Setup,56,1,22356.04
+HP00698,2024-07-12 03:38:52.850331,North America,Printers,34,1596.86,Delivered,2,Hardware,59,4,54293.24
+HP00699,2025-02-02 03:38:52.850334,Africa,Printers,53,1596.86,Cancelled,8,Warranty,51,3,84633.58
+HP00700,2024-11-04 03:38:52.850337,Middle East,Printers,20,1596.86,Backordered,6,Hardware,20,5,31937.2
+HP00701,2024-10-22 03:38:52.850339,Africa,Laptops,75,1596.86,Cancelled,3,Warranty,59,2,119764.5
+HP00702,2025-02-18 03:38:52.850341,Europe,Monitors,16,1596.86,Delivered,9,Setup,71,1,25549.76
+HP00703,2024-06-08 03:38:52.850344,South America,Monitors,95,1596.86,Backordered,5,Setup,9,3,151701.7
+HP00704,2025-05-10 03:38:52.850347,Middle East,Accessories,70,1596.86,Delivered,8,Hardware,1,5,111780.2
+HP00705,2024-10-16 03:38:52.850350,Middle East,Accessories,56,1596.86,Backordered,7,Warranty,29,3,89424.16
+HP00706,2025-02-06 03:38:52.850354,Middle East,Accessories,83,1596.86,Pending,14,Setup,63,5,132539.38
+HP00707,2024-08-03 03:38:52.850359,Middle East,Printers,58,1596.86,Backordered,8,Software,56,4,92617.88
+HP00708,2024-05-20 03:38:52.850363,Africa,Monitors,4,1596.86,Cancelled,7,Software,68,3,6387.44
+HP00709,2025-01-11 03:38:52.850368,Middle East,Printers,4,1596.86,Backordered,3,Warranty,35,3,6387.44
+HP00710,2024-12-06 03:38:52.850374,Asia-Pacific,Laptops,20,1596.86,Delivered,2,Hardware,3,3,31937.2
+HP00711,2025-02-11 03:38:52.850376,South America,Accessories,10,1596.86,Delivered,7,Setup,7,4,15968.6
+HP00712,2024-08-12 03:38:52.850379,Middle East,Printers,24,1596.86,Backordered,3,Hardware,27,1,38324.64
+HP00713,2025-01-30 03:38:52.850381,South America,Printers,99,1596.86,Cancelled,3,Software,1,5,158089.14
+HP00714,2024-10-07 03:38:52.850384,Asia-Pacific,Laptops,26,1596.86,Pending,2,Setup,71,3,41518.36
+HP00715,2025-04-06 03:38:52.850386,Asia-Pacific,Desktops,37,1596.86,Cancelled,4,Hardware,44,4,59083.82
+HP00716,2025-01-15 03:38:52.850389,South America,Monitors,85,1596.86,Pending,8,Network,41,1,135733.1
+HP00717,2024-08-08 03:38:52.850394,North America,Desktops,54,1596.86,Delivered,12,Warranty,42,5,86230.44
+HP00718,2024-08-13 03:38:52.850396,Europe,Accessories,21,1596.86,Cancelled,1,Warranty,33,4,33534.06
+HP00719,2025-02-03 03:38:52.850399,North America,Printers,74,1596.86,Pending,1,Network,50,5,118167.64
+HP00720,2025-03-16 03:38:52.850402,North America,Laptops,38,1596.86,Backordered,12,Software,63,3,60680.68
+HP00721,2025-03-23 03:38:52.850404,Africa,Laptops,46,1596.86,Delivered,14,Setup,37,1,73455.56
+HP00722,2024-08-28 03:38:52.850406,North America,Monitors,4,1596.86,Backordered,5,Warranty,59,4,6387.44
+HP00723,2025-04-02 03:38:52.850418,Middle East,Desktops,60,1596.86,Delivered,11,Network,48,1,95811.6
+HP00724,2025-04-07 03:38:52.850421,Africa,Monitors,57,1596.86,Cancelled,5,Network,5,3,91021.02
+HP00725,2024-12-03 03:38:52.850423,Africa,Printers,45,1596.86,Cancelled,11,Software,48,1,71858.7
+HP00726,2024-08-29 03:38:52.850426,Asia-Pacific,Monitors,20,1596.86,Delivered,12,Software,3,1,31937.2
+HP00727,2024-05-22 03:38:52.850429,North America,Laptops,17,1596.86,Delivered,1,Hardware,47,2,27146.62
+HP00728,2025-05-11 03:38:52.850431,Asia-Pacific,Laptops,71,1596.86,Delivered,6,Warranty,62,1,113377.06
+HP00729,2024-11-13 03:38:52.850434,South America,Accessories,4,1596.86,Cancelled,1,Hardware,14,5,6387.44
+HP00730,2025-04-19 03:38:52.850436,Europe,Accessories,93,1596.86,Pending,5,Network,63,4,148507.98
+HP00731,2024-06-14 03:38:52.850439,Africa,Printers,14,1596.86,Backordered,9,Setup,61,2,22356.04
+HP00732,2024-07-31 03:38:52.850441,South America,Desktops,3,1596.86,Backordered,12,Setup,31,4,4790.58
+HP00733,2024-12-04 03:38:52.850444,South America,Monitors,88,1596.86,Cancelled,14,Software,17,4,140523.68
+HP00734,2024-12-26 03:38:52.850446,Middle East,Printers,80,1596.86,Backordered,5,Setup,24,3,127748.8
+HP00735,2025-03-29 03:38:52.850449,Europe,Accessories,58,1596.86,Delivered,6,Setup,23,3,92617.88
+HP00736,2025-01-04 03:38:52.850451,South America,Monitors,55,1596.86,Pending,8,Setup,50,2,87827.3
+HP00737,2024-06-12 03:38:52.850455,South America,Accessories,4,1596.86,Backordered,11,Network,70,3,6387.44
+HP00738,2025-04-21 03:38:52.850458,Europe,Monitors,24,1596.86,Pending,1,Setup,27,3,38324.64
+HP00739,2024-08-31 03:38:52.850460,Europe,Desktops,34,1596.86,Delivered,14,Setup,15,3,54293.24
+HP00740,2024-11-27 03:38:52.850463,South America,Printers,30,1596.86,Backordered,2,Setup,50,4,47905.8
+HP00741,2024-08-15 03:38:52.850465,Europe,Monitors,82,1596.86,Cancelled,9,Hardware,36,2,130942.52
+HP00742,2024-07-13 03:38:52.850468,South America,Laptops,19,1596.86,Pending,3,Network,8,4,30340.34
+HP00743,2024-11-21 03:38:52.850470,South America,Laptops,31,1596.86,Delivered,6,Software,3,5,49502.66
+HP00744,2025-04-15 03:38:52.850473,Middle East,Monitors,60,1596.86,Pending,5,Hardware,62,4,95811.6
+HP00745,2024-12-25 03:38:52.850475,North America,Monitors,60,1596.86,Backordered,11,Warranty,47,5,95811.6
+HP00746,2024-11-30 03:38:52.850478,South America,Monitors,19,1596.86,Backordered,2,Network,61,1,30340.34
+HP00747,2025-02-27 03:38:52.850481,Asia-Pacific,Laptops,49,1596.86,Cancelled,14,Network,32,1,78246.14
+HP00748,2025-02-10 03:38:52.850483,Africa,Laptops,63,1596.86,Delivered,7,Warranty,13,5,100602.18
+HP00749,2024-11-07 03:38:52.850486,North America,Monitors,83,1596.86,Delivered,4,Warranty,1,5,132539.38
+HP00750,2025-05-15 03:38:52.850488,North America,Accessories,22,1596.86,Cancelled,1,Warranty,34,4,35130.92
+HP00751,2025-03-13 03:38:52.850491,North America,Accessories,24,1596.86,Cancelled,13,Software,62,5,38324.64
+HP00752,2024-08-19 03:38:52.850493,Middle East,Desktops,76,1596.86,Delivered,4,Setup,71,2,121361.36
+HP00753,2024-11-17 03:38:52.850496,South America,Printers,30,1596.86,Pending,6,Network,31,1,47905.8
+HP00754,2024-12-18 03:38:52.850498,Middle East,Accessories,58,1596.86,Pending,7,Setup,64,1,92617.88
+HP00755,2025-05-16 03:38:52.850501,South America,Laptops,31,1596.86,Cancelled,7,Setup,25,5,49502.66
+HP00756,2024-12-02 03:38:52.850503,Middle East,Accessories,64,1596.86,Pending,14,Warranty,38,3,102199.04
+HP00757,2025-02-27 03:38:52.850506,Middle East,Desktops,19,1596.86,Delivered,7,Software,14,3,30340.34
+HP00758,2025-01-11 03:38:52.850508,Africa,Desktops,48,1596.86,Backordered,3,Hardware,8,5,76649.28
+HP00759,2025-03-14 03:38:52.850511,Asia-Pacific,Printers,45,1596.86,Backordered,6,Software,54,2,71858.7
+HP00760,2025-04-10 03:38:52.850513,Middle East,Accessories,94,1596.86,Pending,13,Setup,2,3,150104.84
+HP00761,2024-11-02 03:38:52.850516,Africa,Laptops,55,1596.86,Cancelled,8,Software,56,5,87827.3
+HP00762,2024-07-01 03:38:52.850519,Europe,Laptops,55,1596.86,Cancelled,4,Warranty,61,2,87827.3
+HP00763,2024-09-16 03:38:52.850522,Asia-Pacific,Monitors,97,1596.86,Cancelled,13,Hardware,22,2,154895.42
+HP00764,2024-11-18 03:38:52.850525,Middle East,Laptops,18,1596.86,Cancelled,8,Warranty,35,4,28743.48
+HP00765,2024-12-04 03:38:52.850527,North America,Printers,63,1596.86,Cancelled,2,Hardware,16,2,100602.18
+HP00766,2025-04-07 03:38:52.850530,Europe,Printers,92,1596.86,Pending,10,Setup,50,3,146911.12
+HP00767,2025-01-21 03:38:52.850532,Europe,Laptops,47,1596.86,Backordered,9,Hardware,43,3,75052.42
+HP00768,2024-07-02 03:38:52.850535,Africa,Laptops,75,1596.86,Backordered,9,Hardware,17,5,119764.5
+HP00769,2024-07-11 03:38:52.850538,Europe,Monitors,57,1596.86,Pending,8,Hardware,58,5,91021.02
+HP00770,2024-08-16 03:38:52.850540,Asia-Pacific,Laptops,45,1596.86,Cancelled,10,Software,2,2,71858.7
+HP00771,2024-12-06 03:38:52.850543,Middle East,Monitors,33,1596.86,Pending,14,Software,4,1,52696.38
+HP00772,2024-12-07 03:38:52.850547,Middle East,Monitors,17,1596.86,Backordered,13,Setup,39,4,27146.62
+HP00773,2025-04-03 03:38:52.850552,North America,Laptops,70,1596.86,Delivered,10,Hardware,6,1,111780.2
+HP00774,2024-10-01 03:38:52.850556,Africa,Desktops,4,1596.86,Pending,1,Network,69,2,6387.44
+HP00775,2024-05-29 03:38:52.850560,North America,Desktops,20,1596.86,Cancelled,2,Setup,69,2,31937.2
+HP00776,2025-02-08 03:38:52.850565,Europe,Monitors,47,1596.86,Backordered,6,Hardware,20,1,75052.42
+HP00777,2024-07-05 03:38:52.850569,North America,Laptops,91,1596.86,Backordered,10,Hardware,64,4,145314.26
+HP00778,2025-01-19 03:38:52.850574,Asia-Pacific,Desktops,15,1596.86,Backordered,5,Software,16,1,23952.9
+HP00779,2024-07-18 03:38:52.850585,Middle East,Laptops,70,1596.86,Backordered,12,Setup,51,5,111780.2
+HP00780,2024-07-09 03:38:52.850587,Europe,Laptops,47,1596.86,Cancelled,14,Hardware,37,3,75052.42
+HP00781,2025-05-01 03:38:52.850590,North America,Laptops,78,1596.86,Delivered,9,Hardware,69,5,124555.08
+HP00782,2025-04-08 03:38:52.850592,Africa,Accessories,75,1596.86,Backordered,5,Setup,42,3,119764.5
+HP00783,2024-07-21 03:38:52.850595,Asia-Pacific,Laptops,9,1596.86,Pending,2,Network,57,2,14371.74
+HP00784,2024-05-18 03:38:52.850597,Asia-Pacific,Accessories,90,1596.86,Delivered,10,Setup,66,4,143717.4
+HP00785,2024-05-21 03:38:52.850600,North America,Monitors,16,1596.86,Backordered,4,Setup,9,1,25549.76
+HP00786,2024-10-05 03:38:52.850602,Middle East,Desktops,69,1596.86,Delivered,9,Network,64,4,110183.34
+HP00787,2024-05-24 03:38:52.850605,North America,Desktops,61,1596.86,Pending,1,Setup,22,1,97408.46
+HP00788,2025-05-10 03:38:52.850608,Europe,Desktops,10,1596.86,Backordered,11,Hardware,34,5,15968.6
+HP00789,2025-05-09 03:38:52.850610,North America,Desktops,50,1596.86,Pending,1,Setup,55,5,79843.0
+HP00790,2024-10-07 03:38:52.850613,Asia-Pacific,Desktops,3,1596.86,Cancelled,12,Network,29,1,4790.58
+HP00791,2024-10-23 03:38:52.850615,North America,Desktops,77,1596.86,Backordered,7,Warranty,38,4,122958.22
+HP00792,2024-10-28 03:38:52.850618,Middle East,Desktops,94,1596.86,Backordered,11,Setup,18,1,150104.84
+HP00793,2025-01-05 03:38:52.850621,Africa,Monitors,70,1596.86,Backordered,3,Software,71,2,111780.2
+HP00794,2024-08-15 03:38:52.850623,South America,Laptops,81,1596.86,Backordered,10,Hardware,65,5,129345.66
+HP00795,2024-11-19 03:38:52.850625,North America,Printers,51,1596.86,Cancelled,2,Hardware,1,2,81439.86
+HP00796,2024-11-10 03:38:52.850628,Middle East,Accessories,19,1596.86,Backordered,9,Software,4,5,30340.34
+HP00797,2025-04-19 03:38:52.850631,Middle East,Printers,42,1596.86,Delivered,3,Software,4,5,67068.12
+HP00798,2024-05-23 03:38:52.850635,Africa,Printers,35,1596.86,Backordered,2,Setup,27,3,55890.1
+HP00799,2024-06-12 03:38:52.850640,Asia-Pacific,Laptops,46,1596.86,Cancelled,12,Software,43,2,73455.56
+HP00800,2024-09-28 03:38:52.850644,Middle East,Laptops,26,1596.86,Backordered,8,Warranty,59,2,41518.36
+HP00801,2025-04-20 03:38:52.850649,Middle East,Laptops,69,1596.86,Delivered,10,Network,32,3,110183.34
+HP00802,2024-07-12 03:38:52.850653,Middle East,Desktops,93,1596.86,Cancelled,6,Software,33,4,148507.98
+HP00803,2025-01-15 03:38:52.850659,Middle East,Monitors,64,1596.86,Cancelled,6,Software,28,2,102199.04
+HP00804,2024-12-10 03:38:52.850661,Europe,Desktops,37,1596.86,Delivered,10,Warranty,55,1,59083.82
+HP00805,2025-03-06 03:38:52.850664,Europe,Monitors,84,1596.86,Delivered,11,Hardware,60,3,134136.24
+HP00806,2024-11-06 03:38:52.850667,Asia-Pacific,Monitors,49,1596.86,Delivered,7,Hardware,70,2,78246.14
+HP00807,2024-08-04 03:38:52.850669,North America,Printers,21,1596.86,Delivered,7,Setup,62,4,33534.06
+HP00808,2024-10-20 03:38:52.850672,Middle East,Printers,74,1596.86,Delivered,11,Warranty,34,2,118167.64
+HP00809,2025-03-29 03:38:52.850674,Africa,Monitors,64,1596.86,Cancelled,13,Network,56,5,102199.04
+HP00810,2024-06-21 03:38:52.850677,North America,Monitors,5,1596.86,Cancelled,6,Network,13,1,7984.3
+HP00811,2024-07-29 03:38:52.850679,Africa,Desktops,70,1596.86,Backordered,4,Warranty,56,3,111780.2
+HP00812,2025-04-17 03:38:52.850682,North America,Desktops,90,1596.86,Backordered,11,Network,18,5,143717.4
+HP00813,2025-02-14 03:38:52.850684,Asia-Pacific,Printers,4,1596.86,Pending,9,Hardware,54,4,6387.44
+HP00814,2024-08-29 03:38:52.850687,Middle East,Laptops,39,1596.86,Backordered,6,Network,43,5,62277.54
+HP00815,2024-08-01 03:38:52.850690,Middle East,Monitors,35,1596.86,Backordered,4,Network,39,5,55890.1
+HP00816,2025-04-05 03:38:52.850692,South America,Desktops,1,1596.86,Delivered,12,Warranty,61,4,1596.86
+HP00817,2024-07-28 03:38:52.850695,Africa,Printers,24,1596.86,Delivered,3,Warranty,42,5,38324.64
+HP00818,2024-09-10 03:38:52.850698,North America,Desktops,57,1596.86,Backordered,4,Network,18,3,91021.02
+HP00819,2025-02-19 03:38:52.850701,North America,Monitors,70,1596.86,Pending,3,Software,23,2,111780.2
+HP00820,2024-09-01 03:38:52.850703,Europe,Monitors,41,1596.86,Delivered,2,Warranty,54,5,65471.26
+HP00821,2025-01-31 03:38:52.850706,South America,Accessories,54,1596.86,Backordered,14,Setup,30,3,86230.44
+HP00822,2024-07-20 03:38:52.850708,Europe,Laptops,46,1596.86,Backordered,5,Setup,58,2,73455.56
+HP00823,2024-06-10 03:38:52.850711,Europe,Accessories,60,1596.86,Cancelled,2,Hardware,68,2,95811.6
+HP00824,2024-07-03 03:38:52.850713,Europe,Printers,60,1596.86,Pending,6,Network,67,5,95811.6
+HP00825,2025-03-06 03:38:52.850716,Africa,Desktops,57,1596.86,Cancelled,3,Software,71,3,91021.02
+HP00826,2024-07-01 03:38:52.850719,Africa,Printers,31,1596.86,Pending,6,Hardware,18,5,49502.66
+HP00827,2024-08-17 03:38:52.850721,Asia-Pacific,Monitors,84,1596.86,Delivered,11,Network,7,4,134136.24
+HP00828,2025-05-12 03:38:52.850724,Asia-Pacific,Accessories,24,1596.86,Pending,10,Warranty,40,2,38324.64
+HP00829,2025-03-17 03:38:52.850726,Europe,Accessories,89,1596.86,Backordered,9,Setup,70,5,142120.54
+HP00830,2024-08-09 03:38:52.850729,South America,Accessories,36,1596.86,Backordered,1,Software,65,2,57486.96
+HP00831,2024-06-22 03:38:52.850731,North America,Printers,85,1596.86,Pending,6,Setup,68,3,135733.1
+HP00832,2024-05-31 03:38:52.850734,Africa,Monitors,30,1596.86,Pending,9,Warranty,49,1,47905.8
+HP00833,2025-04-13 03:38:52.850736,South America,Desktops,24,1596.86,Pending,11,Network,52,5,38324.64
+HP00834,2024-10-18 03:38:52.850739,Middle East,Desktops,30,1596.86,Cancelled,4,Warranty,29,5,47905.8
+HP00835,2024-11-02 03:38:52.850741,Africa,Printers,86,1596.86,Pending,11,Warranty,21,2,137329.96
+HP00836,2025-03-29 03:38:52.850744,Africa,Accessories,92,1596.86,Delivered,12,Setup,9,3,146911.12
+HP00837,2025-01-11 03:38:52.850747,Asia-Pacific,Laptops,7,1596.86,Cancelled,2,Software,47,4,11178.02
+HP00838,2024-12-05 03:38:52.850749,North America,Printers,35,1596.86,Cancelled,13,Warranty,42,3,55890.1
+HP00839,2025-03-16 03:38:52.850751,North America,Printers,55,1596.86,Pending,4,Setup,51,5,87827.3
+HP00840,2024-06-20 03:38:52.850754,Middle East,Monitors,92,1596.86,Delivered,1,Software,56,4,146911.12
+HP00841,2025-03-15 03:38:52.850757,Middle East,Desktops,14,1596.86,Cancelled,3,Network,51,3,22356.04
+HP00842,2024-11-17 03:38:52.850759,Africa,Printers,10,1596.86,Backordered,10,Network,70,1,15968.6
+HP00843,2024-07-18 03:38:52.850761,Europe,Printers,80,1596.86,Cancelled,9,Hardware,20,2,127748.8
+HP00844,2025-01-26 03:38:52.850764,Asia-Pacific,Accessories,16,1596.86,Pending,10,Setup,27,3,25549.76
+HP00845,2025-04-21 03:38:52.850767,Asia-Pacific,Accessories,54,1596.86,Delivered,5,Software,38,3,86230.44
+HP00846,2025-01-18 03:38:52.850769,Africa,Laptops,95,1596.86,Pending,11,Warranty,65,1,151701.7
+HP00847,2025-03-08 03:38:52.850771,South America,Monitors,89,1596.86,Backordered,6,Network,54,5,142120.54
+HP00848,2025-04-10 03:38:52.850774,Europe,Laptops,77,1596.86,Backordered,3,Software,24,2,122958.22
+HP00849,2024-11-05 03:38:52.850776,Africa,Accessories,70,1596.86,Backordered,5,Setup,47,3,111780.2
+HP00850,2024-07-21 03:38:52.850779,Europe,Desktops,44,1596.86,Pending,11,Hardware,71,4,70261.84
+HP00851,2024-12-08 03:38:52.850781,Europe,Accessories,73,1596.86,Cancelled,8,Network,63,3,116570.78
+HP00852,2025-04-01 03:38:52.850784,Europe,Monitors,45,1596.86,Pending,6,Software,57,2,71858.7
+HP00853,2024-06-24 03:38:52.850786,Africa,Accessories,56,1596.86,Delivered,4,Software,55,3,89424.16
+HP00854,2024-10-08 03:38:52.850789,Asia-Pacific,Monitors,84,1596.86,Cancelled,2,Software,60,1,134136.24
+HP00855,2024-11-10 03:38:52.850791,Asia-Pacific,Monitors,82,1596.86,Backordered,14,Setup,62,3,130942.52
+HP00856,2024-08-03 03:38:52.850795,Europe,Monitors,57,1596.86,Pending,9,Setup,30,3,91021.02
+HP00857,2025-05-08 03:38:52.850797,South America,Monitors,21,1596.86,Backordered,13,Setup,22,4,33534.06
+HP00858,2024-08-25 03:38:52.850800,North America,Monitors,68,1596.86,Backordered,12,Warranty,29,1,108586.48
+HP00859,2025-03-19 03:38:52.850802,Africa,Desktops,50,1596.86,Delivered,1,Software,41,1,79843.0
+HP00860,2024-08-30 03:38:52.850805,North America,Laptops,33,1596.86,Cancelled,1,Network,42,3,52696.38
+HP00861,2024-09-06 03:38:52.850807,South America,Printers,91,1596.86,Delivered,13,Setup,65,4,145314.26
+HP00862,2025-04-11 03:38:52.850817,Africa,Laptops,7,1596.86,Delivered,4,Setup,31,3,11178.02
+HP00863,2024-12-13 03:38:52.850820,Europe,Monitors,70,1596.86,Delivered,7,Software,30,3,111780.2
+HP00864,2024-08-12 03:38:52.850823,Asia-Pacific,Desktops,15,1596.86,Backordered,1,Setup,18,2,23952.9
+HP00865,2024-07-29 03:38:52.850826,North America,Accessories,82,1596.86,Delivered,9,Warranty,17,2,130942.52
+HP00866,2025-01-19 03:38:52.850828,Middle East,Desktops,32,1596.86,Delivered,4,Warranty,38,4,51099.52
+HP00867,2024-10-22 03:38:52.850831,Middle East,Monitors,75,1596.86,Cancelled,3,Setup,14,5,119764.5
+HP00868,2024-06-09 03:38:52.850833,South America,Desktops,20,1596.86,Cancelled,1,Software,56,2,31937.2
+HP00869,2024-06-30 03:38:52.850836,Europe,Desktops,88,1596.86,Delivered,10,Software,22,5,140523.68
+HP00870,2025-05-13 03:38:52.850838,North America,Monitors,15,1596.86,Cancelled,4,Software,67,1,23952.9
+HP00871,2025-03-06 03:38:52.850841,Europe,Desktops,48,1596.86,Cancelled,9,Hardware,56,2,76649.28
+HP00872,2025-01-08 03:38:52.850844,North America,Printers,71,1596.86,Delivered,13,Setup,19,2,113377.06
+HP00873,2025-04-29 03:38:52.850846,South America,Printers,21,1596.86,Backordered,14,Software,57,4,33534.06
+HP00874,2024-12-26 03:38:52.850849,South America,Desktops,42,1596.86,Delivered,10,Warranty,44,5,67068.12
+HP00875,2025-02-09 03:38:52.850852,Middle East,Accessories,26,1596.86,Cancelled,6,Network,35,2,41518.36
+HP00876,2024-10-19 03:38:52.850855,Europe,Monitors,14,1596.86,Backordered,6,Network,1,2,22356.04
+HP00877,2025-01-06 03:38:52.850859,Africa,Printers,57,1596.86,Pending,1,Software,52,4,91021.02
+HP00878,2024-06-16 03:38:52.850864,Middle East,Accessories,37,1596.86,Backordered,10,Network,70,4,59083.82
+HP00879,2024-12-05 03:38:52.850868,Europe,Desktops,58,1596.86,Cancelled,2,Network,37,5,92617.88
+HP00880,2024-06-11 03:38:52.850873,Middle East,Accessories,21,1596.86,Backordered,11,Hardware,65,1,33534.06
+HP00881,2024-06-03 03:38:52.850878,Africa,Laptops,82,1596.86,Delivered,6,Warranty,51,1,130942.52
+HP00882,2024-12-05 03:38:52.850883,Asia-Pacific,Printers,69,1596.86,Pending,2,Warranty,1,3,110183.34
+HP00883,2025-04-11 03:38:52.850888,Asia-Pacific,Desktops,3,1596.86,Pending,3,Hardware,21,2,4790.58
+HP00884,2025-02-16 03:38:52.850892,Asia-Pacific,Monitors,87,1596.86,Pending,4,Hardware,53,5,138926.82
+HP00885,2024-11-03 03:38:52.850895,Asia-Pacific,Desktops,90,1596.86,Cancelled,11,Network,16,2,143717.4
+HP00886,2025-03-10 03:38:52.850897,North America,Monitors,37,1596.86,Cancelled,5,Setup,61,5,59083.82
+HP00887,2025-03-21 03:38:52.850900,Asia-Pacific,Desktops,88,1596.86,Pending,9,Network,54,5,140523.68
+HP00888,2025-04-28 03:38:52.850902,Africa,Accessories,49,1596.86,Backordered,12,Hardware,40,5,78246.14
+HP00889,2024-06-08 03:38:52.850904,South America,Accessories,19,1596.86,Pending,4,Warranty,26,2,30340.34
+HP00890,2024-06-04 03:38:52.850907,South America,Accessories,89,1596.86,Backordered,13,Network,65,4,142120.54
+HP00891,2024-06-04 03:38:52.850910,North America,Laptops,85,1596.86,Backordered,11,Setup,64,2,135733.1
+HP00892,2024-11-29 03:38:52.850913,Asia-Pacific,Monitors,12,1596.86,Cancelled,9,Network,43,5,19162.32
+HP00893,2025-01-17 03:38:52.850915,Asia-Pacific,Accessories,61,1596.86,Backordered,11,Software,17,3,97408.46
+HP00894,2025-02-23 03:38:52.850918,Asia-Pacific,Laptops,41,1596.86,Pending,10,Network,59,1,65471.26
+HP00895,2025-03-19 03:38:52.850920,Middle East,Monitors,33,1596.86,Cancelled,3,Hardware,23,5,52696.38
+HP00896,2025-02-15 03:38:52.850923,Europe,Desktops,50,1596.86,Delivered,8,Warranty,7,3,79843.0
+HP00897,2024-08-22 03:38:52.850925,Middle East,Laptops,68,1596.86,Delivered,12,Warranty,44,4,108586.48
+HP00898,2024-11-16 03:38:52.850928,Europe,Printers,71,1596.86,Cancelled,1,Hardware,53,5,113377.06
+HP00899,2024-06-23 03:38:52.850931,Asia-Pacific,Laptops,86,1596.86,Pending,11,Software,71,3,137329.96
+HP00900,2024-06-26 03:38:52.850933,Asia-Pacific,Laptops,33,1596.86,Delivered,9,Hardware,34,5,52696.38
+HP00901,2025-02-23 03:38:52.850936,Middle East,Monitors,81,1596.86,Delivered,9,Network,46,2,129345.66
+HP00902,2024-05-27 03:38:52.850938,Middle East,Desktops,24,1596.86,Backordered,10,Hardware,68,3,38324.64
+HP00903,2024-11-19 03:38:52.850941,Europe,Printers,61,1596.86,Backordered,2,Hardware,16,2,97408.46
+HP00904,2024-07-01 03:38:52.850944,South America,Accessories,61,1596.86,Pending,4,Software,71,2,97408.46
+HP00905,2025-05-04 03:38:52.850946,Europe,Accessories,98,1596.86,Cancelled,13,Network,19,3,156492.28
+HP00906,2024-07-28 03:38:52.850949,Middle East,Laptops,28,1596.86,Pending,8,Setup,2,1,44712.08
+HP00907,2024-07-17 03:38:52.850951,Africa,Monitors,58,1596.86,Cancelled,7,Setup,10,3,92617.88
+HP00908,2024-09-17 03:38:52.850954,Middle East,Monitors,43,1596.86,Delivered,1,Warranty,50,1,68664.98
+HP00909,2024-10-19 03:38:52.850957,Africa,Accessories,41,1596.86,Backordered,5,Hardware,12,5,65471.26
+HP00910,2024-09-17 03:38:52.850959,North America,Printers,39,1596.86,Pending,7,Warranty,70,5,62277.54
+HP00911,2025-03-30 03:38:52.850962,Middle East,Desktops,86,1596.86,Pending,4,Software,22,3,137329.96
+HP00912,2024-10-07 03:38:52.850964,North America,Printers,49,1596.86,Cancelled,1,Setup,32,5,78246.14
+HP00913,2024-12-24 03:38:52.850967,South America,Desktops,17,1596.86,Cancelled,9,Hardware,1,4,27146.62
+HP00914,2024-06-10 03:38:52.850969,Europe,Accessories,98,1596.86,Pending,14,Software,54,2,156492.28
+HP00915,2025-01-28 03:38:52.850972,Africa,Desktops,70,1596.86,Cancelled,5,Software,58,2,111780.2
+HP00916,2025-03-19 03:38:52.850974,Europe,Monitors,70,1596.86,Pending,11,Hardware,70,1,111780.2
+HP00917,2025-01-29 03:38:52.850978,North America,Laptops,98,1596.86,Pending,2,Software,18,5,156492.28
+HP00918,2024-11-19 03:38:52.850980,Africa,Laptops,65,1596.86,Pending,8,Hardware,6,1,103795.9
+HP00919,2025-02-18 03:38:52.850983,Europe,Accessories,74,1596.86,Delivered,11,Hardware,45,2,118167.64
+HP00920,2024-10-15 03:38:52.850986,Middle East,Monitors,85,1596.86,Cancelled,13,Network,23,2,135733.1
+HP00921,2025-05-09 03:38:52.850988,Asia-Pacific,Printers,5,1596.86,Backordered,2,Warranty,23,5,7984.3
+HP00922,2024-09-16 03:38:52.850990,North America,Monitors,2,1596.86,Backordered,3,Software,26,4,3193.72
+HP00923,2025-03-01 03:38:52.850993,Europe,Laptops,22,1596.86,Cancelled,14,Software,7,4,35130.92
+HP00924,2024-06-05 03:38:52.850996,North America,Laptops,57,1596.86,Pending,10,Network,44,5,91021.02
+HP00925,2024-08-25 03:38:52.850999,North America,Monitors,66,1596.86,Backordered,1,Network,27,5,105392.76
+HP00926,2024-05-31 03:38:52.851003,Africa,Monitors,74,1596.86,Backordered,11,Network,26,1,118167.64
+HP00927,2024-06-27 03:38:52.851008,Africa,Laptops,98,1596.86,Cancelled,2,Setup,36,5,156492.28
+HP00928,2024-12-07 03:38:52.851013,Asia-Pacific,Printers,16,1596.86,Backordered,14,Setup,55,4,25549.76
+HP00929,2024-12-10 03:38:52.851018,Middle East,Accessories,51,1596.86,Pending,7,Setup,64,5,81439.86
+HP00930,2024-09-10 03:38:52.851028,North America,Accessories,39,1596.86,Cancelled,10,Hardware,57,1,62277.54
+HP00931,2024-09-13 03:38:52.851031,Europe,Monitors,86,1596.86,Pending,2,Software,69,1,137329.96
+HP00932,2024-12-12 03:38:52.851033,South America,Accessories,76,1596.86,Backordered,6,Warranty,61,1,121361.36
+HP00933,2024-10-02 03:38:52.851036,North America,Laptops,88,1596.86,Backordered,3,Hardware,2,1,140523.68
+HP00934,2024-06-15 03:38:52.851038,North America,Laptops,40,1596.86,Pending,4,Software,55,3,63874.4
+HP00935,2025-04-25 03:38:52.851041,Asia-Pacific,Monitors,38,1596.86,Delivered,11,Software,38,5,60680.68
+HP00936,2025-03-01 03:38:52.851043,Middle East,Monitors,60,1596.86,Backordered,13,Network,29,2,95811.6
+HP00937,2024-05-16 03:38:52.851046,South America,Monitors,59,1596.86,Delivered,8,Network,26,5,94214.74
+HP00938,2024-07-02 03:38:52.851048,Africa,Printers,10,1596.86,Backordered,14,Hardware,35,3,15968.6
+HP00939,2025-02-15 03:38:52.851051,Africa,Accessories,99,1596.86,Delivered,3,Network,67,1,158089.14
+HP00940,2024-10-28 03:38:52.851053,Europe,Monitors,64,1596.86,Delivered,10,Software,29,3,102199.04
+HP00941,2024-07-23 03:38:52.851056,South America,Desktops,63,1596.86,Delivered,6,Network,34,4,100602.18
+HP00942,2024-07-03 03:38:52.851058,Africa,Desktops,49,1596.86,Pending,1,Setup,41,4,78246.14
+HP00943,2024-11-05 03:38:52.851061,Europe,Laptops,64,1596.86,Delivered,7,Network,41,5,102199.04
+HP00944,2025-04-23 03:38:52.851063,Middle East,Accessories,32,1596.86,Delivered,8,Software,23,5,51099.52
+HP00945,2025-03-01 03:38:52.851066,Europe,Monitors,7,1596.86,Delivered,11,Hardware,71,2,11178.02
+HP00946,2025-03-21 03:38:52.851068,Africa,Desktops,21,1596.86,Backordered,14,Warranty,3,2,33534.06
+HP00947,2024-09-25 03:38:52.851071,Asia-Pacific,Accessories,20,1596.86,Delivered,8,Network,58,4,31937.2
+HP00948,2025-04-26 03:38:52.851074,Asia-Pacific,Laptops,26,1596.86,Backordered,3,Software,32,1,41518.36
+HP00949,2024-12-07 03:38:52.851076,Asia-Pacific,Printers,68,1596.86,Delivered,14,Warranty,31,3,108586.48
+HP00950,2024-05-31 03:38:52.851079,Africa,Accessories,86,1596.86,Delivered,10,Warranty,43,2,137329.96
+HP00951,2025-02-22 03:38:52.851081,Asia-Pacific,Accessories,15,1596.86,Pending,1,Setup,7,2,23952.9
+HP00952,2024-12-05 03:38:52.851084,South America,Printers,85,1596.86,Backordered,9,Warranty,1,1,135733.1
+HP00953,2025-03-03 03:38:52.851086,Middle East,Accessories,79,1596.86,Delivered,13,Software,61,1,126151.94
+HP00954,2024-05-31 03:38:52.851089,Europe,Laptops,86,1596.86,Backordered,6,Software,14,5,137329.96
+HP00955,2024-08-15 03:38:52.851091,Europe,Laptops,92,1596.86,Backordered,11,Network,52,3,146911.12
+HP00956,2025-01-13 03:38:52.851094,Africa,Printers,14,1596.86,Cancelled,9,Network,6,1,22356.04
+HP00957,2024-08-29 03:38:52.851096,Asia-Pacific,Monitors,27,1596.86,Pending,7,Network,10,2,43115.22
+HP00958,2025-02-01 03:38:52.851099,Asia-Pacific,Desktops,40,1596.86,Pending,1,Warranty,71,2,63874.4
+HP00959,2025-04-05 03:38:52.851102,North America,Monitors,58,1596.86,Pending,12,Warranty,30,4,92617.88
+HP00960,2025-03-13 03:38:52.851104,Middle East,Accessories,28,1596.86,Cancelled,12,Setup,21,1,44712.08
+HP00961,2024-05-28 03:38:52.851107,South America,Desktops,26,1596.86,Cancelled,1,Network,60,5,41518.36
+HP00962,2025-03-22 03:38:52.851109,Europe,Printers,63,1596.86,Pending,6,Hardware,63,3,100602.18
+HP00963,2025-02-18 03:38:52.851112,North America,Printers,66,1596.86,Cancelled,5,Setup,42,5,105392.76
+HP00964,2024-08-02 03:38:52.851114,North America,Desktops,25,1596.86,Cancelled,9,Hardware,51,2,39921.5
+HP00965,2025-04-23 03:38:52.851117,Africa,Laptops,3,1596.86,Cancelled,2,Warranty,64,5,4790.58
+HP00966,2025-01-28 03:38:52.851119,Europe,Desktops,72,1596.86,Pending,8,Setup,56,2,114973.92
+HP00967,2024-05-25 03:38:52.851122,Africa,Accessories,44,1596.86,Pending,11,Setup,41,2,70261.84
+HP00968,2024-09-16 03:38:52.851124,South America,Laptops,97,1596.86,Pending,5,Software,32,2,154895.42
+HP00969,2024-05-21 03:38:52.851127,North America,Printers,42,1596.86,Cancelled,2,Warranty,15,2,67068.12
+HP00970,2024-11-23 03:38:52.851129,North America,Desktops,99,1596.86,Pending,13,Warranty,62,2,158089.14
+HP00971,2024-12-05 03:38:52.851132,Middle East,Monitors,6,1596.86,Cancelled,10,Setup,27,4,9581.16
+HP00972,2025-01-19 03:38:52.851135,South America,Monitors,39,1596.86,Delivered,11,Warranty,28,5,62277.54
+HP00973,2024-12-02 03:38:52.851137,North America,Accessories,52,1596.86,Cancelled,11,Setup,64,4,83036.72
+HP00974,2024-10-11 03:38:52.851151,South America,Monitors,23,1596.86,Backordered,12,Software,59,4,36727.78
+HP00975,2025-05-03 03:38:52.851153,Europe,Desktops,89,1596.86,Pending,6,Setup,58,1,142120.54
+HP00976,2025-01-05 03:38:52.851156,Asia-Pacific,Desktops,50,1596.86,Pending,10,Warranty,2,1,79843.0
+HP00977,2024-07-08 03:38:52.851159,North America,Monitors,43,1596.86,Backordered,8,Warranty,36,1,68664.98
+HP00978,2024-09-12 03:38:52.851162,Middle East,Desktops,19,1596.86,Cancelled,4,Setup,71,3,30340.34
+HP00979,2025-03-02 03:38:52.851164,Europe,Accessories,69,1596.86,Delivered,2,Setup,13,1,110183.34
+HP00980,2025-02-08 03:38:52.851167,South America,Laptops,51,1596.86,Backordered,12,Setup,15,5,81439.86
+HP00981,2025-02-20 03:38:52.851169,Africa,Accessories,11,1596.86,Backordered,11,Network,60,4,17565.46
+HP00982,2025-02-07 03:38:52.851171,Europe,Accessories,12,1596.86,Cancelled,5,Warranty,22,5,19162.32
+HP00983,2024-10-24 03:38:52.851174,North America,Desktops,74,1596.86,Pending,12,Warranty,63,1,118167.64
+HP00984,2024-11-23 03:38:52.851177,South America,Laptops,8,1596.86,Cancelled,2,Network,25,3,12774.88
+HP00985,2024-06-19 03:38:52.851180,Asia-Pacific,Desktops,24,1596.86,Backordered,2,Setup,48,3,38324.64
+HP00986,2024-08-05 03:38:52.851182,Europe,Printers,92,1596.86,Backordered,6,Software,43,4,146911.12
+HP00987,2025-03-09 03:38:52.851185,North America,Desktops,41,1596.86,Pending,11,Setup,38,5,65471.26
+HP00988,2025-04-01 03:38:52.851187,Middle East,Desktops,36,1596.86,Pending,10,Setup,41,2,57486.96
+HP00989,2024-12-07 03:38:52.851190,Africa,Desktops,85,1596.86,Pending,9,Network,45,5,135733.1
+HP00990,2024-08-26 03:38:52.851192,South America,Laptops,72,1596.86,Cancelled,13,Warranty,40,1,114973.92
+HP00991,2024-10-24 03:38:52.851195,Europe,Desktops,55,1596.86,Pending,4,Setup,17,2,87827.3
+HP00992,2024-10-18 03:38:52.851197,Europe,Laptops,9,1596.86,Backordered,6,Warranty,57,3,14371.74
+HP00993,2025-01-01 03:38:52.851201,Asia-Pacific,Monitors,47,1596.86,Backordered,7,Hardware,2,4,75052.42
+HP00994,2024-10-09 03:38:52.851206,Asia-Pacific,Printers,15,1596.86,Delivered,13,Warranty,62,4,23952.9
+HP00995,2024-10-26 03:38:52.851211,Middle East,Laptops,48,1596.86,Cancelled,11,Software,9,3,76649.28
+HP00996,2024-10-31 03:38:52.851215,Africa,Monitors,82,1596.86,Delivered,6,Software,68,1,130942.52
+HP00997,2024-08-11 03:38:52.851219,Middle East,Laptops,42,1596.86,Backordered,8,Setup,17,3,67068.12
+HP00998,2024-08-06 03:38:52.851224,North America,Laptops,60,1596.86,Delivered,4,Warranty,50,1,95811.6
+HP00999,2024-11-05 03:38:52.851227,North America,Printers,84,1596.86,Backordered,12,Setup,40,2,134136.24
+HP01000,2025-03-28 03:38:52.851230,Middle East,Accessories,70,1596.86,Delivered,1,Network,58,3,111780.2
